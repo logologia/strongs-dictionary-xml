@@ -122,9 +122,9 @@ and if so, we would appreciate being informed of the error.
  <strongs>1</strongs>   <greek BETA="*A" unicode="Α" translit="A"/>   <pronunciation strongs="al'-fah"/>
 
  <strongs_derivation>of Hebrew origin;</strongs_derivation><strongs_def> the first letter of the alphabet; figuratively, only
- (from its use as a numeral) the first: </strongs_def><kjv_def>--Alpha.</kjv_def> Often used (usually
+ (from its use as a numeral) the first</strongs_def><kjv_def>:--Alpha.</kjv_def> Often used (usually
  <greek BETA="A)/N" unicode="ἄν" translit="án"/>, before a vowel) also in composition (as a contraction from <strongsref language="GREEK" strongs="427"/>) in
- the sense of privation; so, in many words, beginning with this letter;
+ the sense of privation; so in many words beginning with this letter;
  occasionally in the sense of union (as a contraction of <strongsref language="GREEK" strongs="260"/>).
 
 
@@ -934,7 +934,7 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="00136">
  <strongs>136</strongs>   <greek BETA="AI)=NOS" unicode="αἶνος" translit="aînos"/>   <pronunciation strongs="ah'-ee-nos"/>
 
- <strongs_derivation>apparently a prime word;</strongs_derivation><strongs_def> properly, a story, but used in the sense of
+ <strongs_derivation>apparently a primary word;</strongs_derivation><strongs_def> properly, a story, but used in the sense of
  <strongsref language="GREEK" strongs="1868"/>; praise (of God)</strongs_def><kjv_def>:--praise.</kjv_def>
 
 </entry><entry strongs="00137">
@@ -969,7 +969,7 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="00142">
  <strongs>142</strongs>   <greek BETA="AI)/RW" unicode="αἴρω" translit="aírō"/>   <pronunciation strongs="ah'-ee-ro"/>
 
- <strongs_derivation>a primary root;</strongs_derivation><strongs_def> to lift up; by implication, to take up or away;
+ <strongs_derivation>a primary verb;</strongs_derivation><strongs_def> to lift up; by implication, to take up or away;
  figuratively, to raise (the voice), keep in suspense (the mind),
  specially, to sail away (i.e. weigh anchor); by Hebraism (compare
  <strongsref language="HEBREW" strongs="05375"/>) to expiate sin</strongs_def><kjv_def>:--away with, bear (up), carry, lift up, loose,
@@ -1624,7 +1624,7 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="00250">
  <strongs>250</strongs>   <greek BETA="A)LO/H" unicode="ἀλόη" translit="alóē"/>   <pronunciation strongs="al-o-ay'"/>
 
- <strongs_derivation>of foreign origin (compare <strongsref language="GREEK" strongs="174"/>);</strongs_derivation><strongs_def> aloes (the gum)</strongs_def><kjv_def>:--aloes.</kjv_def>
+ <strongs_derivation>of foreign origin (compare <strongsref language="HEBREW" strongs="174"/>);</strongs_derivation><strongs_def> aloes (the gum)</strongs_def><kjv_def>:--aloes.</kjv_def>
 
 </entry><entry strongs="00251">
  <strongs>251</strongs>   <greek BETA="A(/LS" unicode="ἅλς" translit="háls"/>   <pronunciation strongs="halce"/>
@@ -1937,7 +1937,7 @@ and if so, we would appreciate being informed of the error.
  <strongs>302</strongs>   <greek BETA="A)/N" unicode="ἄν" translit="án"/>   <pronunciation strongs="an"/>
 
  <strongs_derivation>a primary particle, denoting a supposition, wish, possibility or
- uncertainty</strongs_derivation><kjv_def>:--(what-, where-, wither-, who-)soever.</kjv_def> Usually
+ uncertainty</strongs_derivation><kjv_def>:--(what-, where-, whither-, who-)soever.</kjv_def> Usually
  unexpressed except by the subjunctive or potential mood. Also
  contracted for <strongsref language="GREEK" strongs="1437"/>.
 
@@ -1985,7 +1985,7 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="00309">
  <strongs>309</strongs>   <greek BETA="A)NA/BLEYIS" unicode="ἀνάβλεψις" translit="anáblepsis"/>   <pronunciation strongs="an-ab'-lep-sis"/>
 
- <strongs_derivation>from <strongsref language="GREEK" strongs="308"/>;</strongs_derivation><strongs_def> restoration of sight</strongs_def><kjv_def>:--recovery of sight.</kjv_def>
+ <strongs_derivation>from <strongsref language="GREEK" strongs="308"/>;</strongs_derivation><strongs_def> restoration of sight</strongs_def><kjv_def>:--recovering of sight.</kjv_def>
 
 </entry><entry strongs="00310">
  <strongs>310</strongs>   <greek BETA="A)NABOA/W" unicode="ἀναβοάω" translit="anaboáō"/>   <pronunciation strongs="an-ab-o-ah'-o"/>
@@ -2419,7 +2419,7 @@ and if so, we would appreciate being informed of the error.
  <strongs>378</strongs>   <greek BETA="A)NAPLHRO/W" unicode="ἀναπληρόω" translit="anaplēróō"/>   <pronunciation strongs="an-ap-lay-ro'-o"/>
 
  <strongs_derivation>from <strongsref language="GREEK" strongs="303"/> and <strongsref language="GREEK" strongs="4137"/>;</strongs_derivation><strongs_def> to complete; by implication, to occupy, supply;
- figuratively, to accomplish (by coincidence ot obedience)</strongs_def><kjv_def>:--fill up,
+ figuratively, to accomplish (by coincidence or obedience)</strongs_def><kjv_def>:--fill up,
  fulfill, occupy, supply.</kjv_def>
 
 
@@ -2427,7 +2427,7 @@ and if so, we would appreciate being informed of the error.
  <strongs>379</strongs>   <greek BETA="A)NAPOLO/GHTOS" unicode="ἀναπολόγητος" translit="anapológētos"/>   <pronunciation strongs="an-ap-ol-og'-ay-tos"/>
 
  <strongs_derivation>from <strongsref language="GREEK" strongs="1"/> (as a negative particle) and a presumed derivative of <strongsref language="GREEK" strongs="626"/>;</strongs_derivation><strongs_def>
- indefensible</strongs_def><kjv_def>:--without an excuse, inexcusable.</kjv_def>
+ indefensible</strongs_def><kjv_def>:--without excuse, inexcusable.</kjv_def>
 
 
 </entry><entry strongs="00380">
@@ -2527,7 +2527,7 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="00394">
  <strongs>394</strongs>   <greek BETA="A)NATI/QEMAI" unicode="ἀνατίθεμαι" translit="anatíthemai"/>   <pronunciation strongs="an-at-ith'-em-ahee"/>
 
- <strongs_derivation>from <strongsref language="GREEK" strongs="303"/> and the middle voice of <strongsref language="GREEK" strongs="5087"/>;</strongs_derivation><strongs_def> to set forth (for oneself), i.e
+ <strongs_derivation>from <strongsref language="GREEK" strongs="303"/> and the middle voice of <strongsref language="GREEK" strongs="5087"/>;</strongs_derivation><strongs_def> to set forth (for oneself), i.e.
  propound</strongs_def><kjv_def>:--communicate, declare.</kjv_def>
 
 
@@ -2618,7 +2618,7 @@ and if so, we would appreciate being informed of the error.
  <strongs>408</strongs>   <greek BETA="*)ANDRO/NIKOS" unicode="Ἀνδρόνικος" translit="Andrónikos"/>   <pronunciation strongs="an-dron'-ee-kos"/>
 
  <strongs_derivation>from <strongsref language="GREEK" strongs="435"/> and <strongsref language="GREEK" strongs="3534"/>;</strongs_derivation><strongs_def> man of victory; Andronicos, an
- Israelite</strongs_def><kjv_def>:--Adronicus.</kjv_def>
+ Israelite</strongs_def><kjv_def>:--Andronicus.</kjv_def>
 
 
 </entry><entry strongs="00409">
@@ -2710,7 +2710,7 @@ and if so, we would appreciate being informed of the error.
  <strongs>422</strongs>   <greek BETA="A)NEPAI/SXUNTOS" unicode="ἀνεπαίσχυντος" translit="anepaíschyntos"/>   <pronunciation strongs="an-ep-ah'-ee-skhoon-tos"/>
 
  <strongs_derivation>from <strongsref language="GREEK" strongs="1"/> (as a negative particle) and a presumed derivative of a
- compound of <strongsref language="GREEK" strongs="1909"/> and <strongsref language="GREEK" strongs="153"/>;</strongs_derivation><strongs_def> not ashamed, i.e. irreprehensible: </strongs_def><kjv_def>--that
+ compound of <strongsref language="GREEK" strongs="1909"/> and <strongsref language="GREEK" strongs="153"/>;</strongs_derivation><strongs_def> not ashamed, i.e. (by implication) irreprehensible</strongs_def><kjv_def>:--that
  needeth not to be ashamed.</kjv_def>
 
 
@@ -2737,7 +2737,7 @@ and if so, we would appreciate being informed of the error.
  <strongs>426</strongs>   <greek BETA="A)NETA/ZW" unicode="ἀνετάζω" translit="anetázō"/>   <pronunciation strongs="an-et-ad'-zo"/>
 
  <strongs_derivation>from <strongsref language="GREEK" strongs="303"/> and <greek BETA="E)TA/ZW" unicode="ἐτάζω" translit="etázō"/> (to test);</strongs_derivation><strongs_def> to investigate (judicially)</strongs_def><kjv_def>:--(should
- have) examined(-d).</kjv_def>
+ have) examine (-d).</kjv_def>
 
 </entry><entry strongs="00427">
  <strongs>427</strongs>   <greek BETA="A)/NEU" unicode="ἄνευ" translit="áneu"/>   <pronunciation strongs="an'-yoo"/>
@@ -3632,7 +3632,7 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="00570">
  <strongs>570</strongs>   <greek BETA="A)PISTI/A" unicode="ἀπιστία" translit="apistía"/>   <pronunciation strongs="ap-is-tee'-ah"/>
 
- <strongs_derivation>from <strongsref language="GREEK" strongs="571"/>;</strongs_derivation><strongs_def> faithlessness, i.e. (negatively) disbelief (lack of
+ <strongs_derivation>from <strongsref language="GREEK" strongs="571"/>;</strongs_derivation><strongs_def> faithlessness, i.e. (negatively) disbelief (want of
  Christian faith), or (positively) unfaithfulness
  (disobedience)</strongs_def><kjv_def>:--unbelief.</kjv_def>
 
@@ -3662,8 +3662,8 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="00574">
  <strongs>574</strongs>   <greek BETA="A(PLW=S" unicode="ἁπλῶς" translit="haplōs"/>   <pronunciation strongs="hap-loce'"/>
 
- <strongs_derivation>adverb from <strongsref language="GREEK" strongs="573"/> (in the objective sense of <strongsref language="GREEK" strongs="572"/>);</strongs_derivation><strongs_def> bountifully;
- </strongs_def><kjv_def>--liberally.</kjv_def>
+ <strongs_derivation>adverb from <strongsref language="GREEK" strongs="573"/> (in the objective sense of <strongsref language="GREEK" strongs="572"/>);</strongs_derivation><strongs_def> bountifully
+ </strongs_def><kjv_def>:--liberally.</kjv_def>
 
 
 </entry><entry strongs="00575">
@@ -4248,7 +4248,7 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="00664">
  <strongs>664</strongs>   <greek BETA="A)POTO/MWS" unicode="ἀποτόμως" translit="apotómōs"/>   <pronunciation strongs="ap-ot-om'-oce"/>
 
- <strongs_derivation>adverb from a derivative of a comparative of <strongsref language="GREEK" strongs="575"/> and <greek BETA="TE/MNW" unicode="τέμνω" translit="témnō"/> (to cut);</strongs_derivation><strongs_def>
+ <strongs_derivation>adverb from a derivative of a compound of <strongsref language="GREEK" strongs="575"/> and <greek BETA="TE/MNW" unicode="τέμνω" translit="témnō"/> (to cut);</strongs_derivation><strongs_def>
  abruptly, i.e. peremptorily</strongs_def><kjv_def>:--sharply(-ness).</kjv_def>
 
 </entry><entry strongs="00665">
@@ -4367,7 +4367,7 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="00682">
  <strongs>682</strongs>   <greek BETA="*)APFI/A" unicode="Ἀπφία" translit="Apphía"/>   <pronunciation strongs="ap-fee'-a"/>
 
- <strongs_derivation>probably of foreign origin;</strongs_derivation><strongs_def> Apphia, a woman of Collosæ</strongs_def><kjv_def>:--Apphia.</kjv_def>
+ <strongs_derivation>probably of foreign origin;</strongs_derivation><strongs_def> Apphia, a woman of Colossæ</strongs_def><kjv_def>:--Apphia.</kjv_def>
 </entry><entry strongs="00683">
  <strongs>683</strongs>   <greek BETA="A)PWQE/OMAI" unicode="ἀπωθέομαι" translit="apōthéomai"/>   <pronunciation strongs="ap-o-theh'-om-ahee"/>
   or <greek BETA="A)PW/QOMAI" unicode="ἀπώθομαι" translit="apṓthomai"/>  <pronunciation strongs="ap-o'-thom-ahee"/>
@@ -4579,7 +4579,7 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="00717">
  <strongs>717</strongs>   <greek BETA="*)ARMAGEDDW/N" unicode="Ἀρμαγεδδών" translit="Armageddṓn"/>   <pronunciation strongs="ar-mag-ed-dohn'"/>
 
- <strongs_derivation>of Hebrew origin (<strongsref language="HEBREW" strongs="02022"/> and <strongsref language="HEBREW" strongs="04023"/>);</strongs_derivation><strongs_def> Armageddon (or Har-Meggiddon), a
+ <strongs_derivation>of Hebrew origin (<strongsref language="HEBREW" strongs="02022"/> and <strongsref language="HEBREW" strongs="04023"/>);</strongs_derivation><strongs_def> Armageddon (or Har-Megiddon), a
  symbolic name</strongs_def><kjv_def>:--Armageddon.</kjv_def>
 
 
@@ -4609,12 +4609,12 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="00722">
  <strongs>722</strongs>   <greek BETA="A)ROTRIO/W" unicode="ἀροτριόω" translit="arotrióō"/>   <pronunciation strongs="ar-ot-ree-o'-o"/>
 
- <strongs_derivation>from <strongsref language="GREEK" strongs="723"/>;</strongs_derivation><strongs_def> to plow</strongs_def><kjv_def>:--plough.</kjv_def>
+ <strongs_derivation>from<strongsref language="GREEK" strongs="723"/>;</strongs_derivation><strongs_def>to plough</strongs_def><kjv_def>:--plow.</kjv_def> 
 
 </entry><entry strongs="00723">
  <strongs>723</strongs>   <greek BETA="A)/ROTRON" unicode="ἄροτρον" translit="árotron"/>   <pronunciation strongs="ar'-ot-ron"/>
 
- <strongs_derivation>from <greek BETA="A)RO/W" unicode="ἀρόω" translit="aróō"/> (to till);</strongs_derivation><strongs_def> a plow</strongs_def><kjv_def>:--plough.</kjv_def>
+ <strongs_derivation>from <greek BETA="A)RO/W" unicode="ἀρόω" translit="aróō"/> (to till);</strongs_derivation><strongs_def> a plough</strongs_def><kjv_def>:--plow.</kjv_def>
 </entry><entry strongs="00724">
  <strongs>724</strongs>   <greek BETA="A(RPAGH/" unicode="ἁρπαγή" translit="harpagḗ"/>   <pronunciation strongs="har-pag-ay'"/>
 
@@ -4876,7 +4876,7 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="00764">
  <strongs>764</strongs>   <greek BETA="A)SEBE/W" unicode="ἀσεβέω" translit="asebéō"/>   <pronunciation strongs="as-eb-eh'-o"/>
 
- <strongs_derivation>from <strongsref language="GREEK" strongs="765"/>;</strongs_derivation><strongs_def> to be (by implied act) impious or wicked</strongs_def><kjv_def>:--commit (live,
+ <strongs_derivation>from <strongsref language="GREEK" strongs="765"/>;</strongs_derivation><strongs_def> to be (by implication, act) impious or wicked</strongs_def><kjv_def>:--commit (live,
  that after should live) ungodly.</kjv_def>
 
 </entry><entry strongs="00765">
@@ -4909,7 +4909,7 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="00769">
  <strongs>769</strongs>   <greek BETA="A)SQE/NEIA" unicode="ἀσθένεια" translit="asthéneia"/>   <pronunciation strongs="as-then'-i-ah"/>
 
- <strongs_derivation>from <strongsref language="GREEK" strongs="772"/>;</strongs_derivation><strongs_def> feebleness (of mind or body); by implication, malady;
+ <strongs_derivation>from <strongsref language="GREEK" strongs="772"/>;</strongs_derivation><strongs_def> feebleness (of body or mind); by implication, malady;
  morally, frailty</strongs_def><kjv_def>:--disease, infirmity, sickness, weakness.</kjv_def>
 
 </entry><entry strongs="00770">
@@ -5089,7 +5089,7 @@ and if so, we would appreciate being informed of the error.
  <strongs>799</strongs>   <greek BETA="*)ASU/GKRITOS" unicode="Ἀσύγκριτος" translit="Asýnkritos"/>   <pronunciation strongs="as-oong'-kree-tos"/>
 
  <strongs_derivation>from <strongsref language="GREEK" strongs="1"/> (as a negative particle) and a derivative of <strongsref language="GREEK" strongs="4793"/>;</strongs_derivation><strongs_def>
- incomparable; Asyncritus, a Christian</strongs_def><kjv_def>:--Asyncritos.</kjv_def>
+ incomparable; Asyncritus, a Christian</strongs_def><kjv_def>:--Asyncritus.</kjv_def>
 
 
 </entry><entry strongs="00800">
@@ -5184,7 +5184,7 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="00814">
  <strongs>814</strongs>   <greek BETA="A)TA/KTWS" unicode="ἀτάκτως" translit="atáktōs"/>   <pronunciation strongs="at-ak'-toce"/>
 
- <strongs_derivation>adverb from <strongsref language="GREEK" strongs="813"/>, irregularly (morally)</strongs_derivation><kjv_def>:--disorderly.</kjv_def>
+ <strongs_derivation>adverb from <strongsref language="GREEK" strongs="813"/>;</strongs_derivation><strongs_def>irregularly (morally)</strongs_def><kjv_def>:--disorderly.</kjv_def>
 
 </entry><entry strongs="00815">
  <strongs>815</strongs>   <greek BETA="A)/TEKNOS" unicode="ἄτεκνος" translit="áteknos"/>   <pronunciation strongs="at'-ek-nos"/>
@@ -5712,7 +5712,7 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="00897">
  <strongs>897</strongs>   <greek BETA="*BABULW/N" unicode="Βαβυλών" translit="Babylṓn"/>   <pronunciation strongs="bab-oo-lone'"/>
 
- <strongs_derivation>of Hebrew origin (<strongsref language="HEBREW" strongs="0894"/>);</strongs_derivation><strongs_def> Babylon, the capitol of Chaldæa (literally or
+ <strongs_derivation>of Hebrew origin (<strongsref language="HEBREW" strongs="0894"/>);</strongs_derivation><strongs_def> Babylon, the capital of Chaldæa (literally or
  figuratively (as a type of tyranny))</strongs_def><kjv_def>:-- Babylon.</kjv_def>
 
 </entry><entry strongs="00898">
@@ -5801,7 +5801,7 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="00912">
  <strongs>912</strongs>   <greek BETA="*BARABBA=S" unicode="Βαραββᾶς" translit="Barabbâs"/>   <pronunciation strongs="bar-ab-bas'"/>
 
- <strongs_derivation>of Chaldee origin (<strongsref language="HEBREW" strongs="01347"/> and <strongsref language="HEBREW" strongs="05"/>);</strongs_derivation><strongs_def> son of Abba; Bar-abbas, an
+ <strongs_derivation>of Chaldee origin (<strongsref language="HEBREW" strongs="01247"/> and <strongsref language="HEBREW" strongs="02"/>);</strongs_derivation><strongs_def> son of Abba; Bar-abbas, an
  Israelite</strongs_def><kjv_def>:--Barabbas.</kjv_def>
 
 
@@ -6240,7 +6240,7 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="00989">
  <strongs>989</strongs>   <greek BETA="BLA/SFHMOS" unicode="βλάσφημος" translit="blásphēmos"/>   <pronunciation strongs="blas'-fay-mos"/>
 
- <strongs_derivation>from a derivative of <strongsref language="GREEK" strongs="984"/> and <strongsref language="GREEK" strongs="5345"/>;</strongs_derivation><strongs_def> scurrilious, i.e. calumnious
+ <strongs_derivation>from a derivative of <strongsref language="GREEK" strongs="984"/> and <strongsref language="GREEK" strongs="5345"/>;</strongs_derivation><strongs_def>scurrilous, i.e. calumnious
  (against men), or (specially) impious (against
  God)</strongs_def><kjv_def>:--blasphemer(-mous), railing.</kjv_def>
 
@@ -6289,12 +6289,12 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="00997">
  <strongs>997</strongs>   <greek BETA="BOHQE/W" unicode="βοηθέω" translit="boēthéō"/>   <pronunciation strongs="bo-ay-theh'-o"/>
 
- <strongs_derivation>from <strongsref language="GREEK" strongs="998"/>;</strongs_derivation><strongs_def> to aid or relieve</strongs_def><kjv_def>:--help, succor.</kjv_def>
+ <strongs_derivation>from <strongsref language="GREEK" strongs="998"/>;</strongs_derivation><strongs_def> to aid or relieve</strongs_def><kjv_def>:--help, succour.</kjv_def>
 
 </entry><entry strongs="00998">
  <strongs>998</strongs>   <greek BETA="BOHQO/S" unicode="βοηθός" translit="boēthós"/>   <pronunciation strongs="bo-ay-thos'"/>
 
- <strongs_derivation>from <strongsref language="GREEK" strongs="995"/> and theo (to run);</strongs_derivation><strongs_def> a succorer</strongs_def><kjv_def>:--helper.</kjv_def>
+ <strongs_derivation>from <strongsref language="GREEK" strongs="995"/> and <greek BETA="QE/W" unicode="θέω" translit="théō"/> (to run);</strongs_derivation><strongs_def> a succorer</strongs_def><kjv_def>:--helper.</kjv_def>
 
 </entry><entry strongs="00999">
  <strongs>999</strongs>   <greek BETA="BO/QUNOS" unicode="βόθυνος" translit="bóthynos"/>   <pronunciation strongs="both'-oo-nos"/>
@@ -6356,7 +6356,7 @@ and if so, we would appreciate being informed of the error.
  <strongs>1010</strongs>   <greek BETA="BOULEUTH/S" unicode="βουλευτής" translit="bouleutḗs"/>   <pronunciation strongs="bool-yoo-tace'"/>
 
  <strongs_derivation>from <strongsref language="GREEK" strongs="1011"/>;</strongs_derivation><strongs_def> an adviser, i.e. (specially) a councillor or member of the
- Jewish Sanhedrin</strongs_def><kjv_def>:--counsellor.</kjv_def>
+ Jewish Sanhedrim</strongs_def><kjv_def>:--counsellor.</kjv_def>
 
 </entry><entry strongs="01011">
  <strongs>1011</strongs>   <greek BETA="BOULEU/W" unicode="βουλεύω" translit="bouleúō"/>   <pronunciation strongs="bool-yoo'-o"/>
@@ -6646,7 +6646,7 @@ and if so, we would appreciate being informed of the error.
  <strongs>1066</strongs>   <greek BETA="*GEDEW/N" unicode="Γεδεών" translit="Gedeṓn"/>   <pronunciation strongs="ghed-eh-own'"/>
 
  <strongs_derivation>of Hebrew origin (<strongsref language="HEBREW" strongs="01439"/>);</strongs_derivation><strongs_def> Gedeon (i.e. Gid(e)on), an Israelite</strongs_def><kjv_def>:--Gedeon
- (in the King James Version).</kjv_def>
+ .</kjv_def>
 
 </entry><entry strongs="01067">
  <strongs>1067</strongs>   <greek BETA="GE/ENNA" unicode="γέεννα" translit="géenna"/>   <pronunciation strongs="gheh'-en-nah"/>
@@ -6770,7 +6770,7 @@ and if so, we would appreciate being informed of the error.
  <strongs>1087</strongs>   <greek BETA="GEROUSI/A" unicode="γερουσία" translit="gerousía"/>   <pronunciation strongs="gher-oo-see'-ah"/>
 
  <strongs_derivation>from <strongsref language="GREEK" strongs="1088"/>;</strongs_derivation><strongs_def> the eldership, i.e. (collectively) the Jewish
- Sanhedrin</strongs_def><kjv_def>:--senate.</kjv_def>
+ Sanhedrim</strongs_def><kjv_def>:--senate.</kjv_def>
 
 </entry><entry strongs="01088">
  <strongs>1088</strongs>   <greek BETA="GE/RWN" unicode="γέρων" translit="gérōn"/>   <pronunciation strongs="gher'-own"/>
@@ -6930,7 +6930,7 @@ and if so, we would appreciate being informed of the error.
  <strongs>1114</strongs>   <greek BETA="GO/HS" unicode="γόης" translit="góēs"/>   <pronunciation strongs="go'-ace"/>
 
  <strongs_derivation>from <greek BETA="GOA/W" unicode="γοάω" translit="goáō"/> (to wail);</strongs_derivation><strongs_def> properly, a wizard (as muttering spells), i.e.
- (by implication) an imposter</strongs_def><kjv_def>:--seducer.</kjv_def>
+ (by implication) an impostor</strongs_def><kjv_def>:--seducer.</kjv_def>
 </entry><entry strongs="01115">
  <strongs>1115</strongs>   <greek BETA="*GOLGOQA=" unicode="Γολγοθᾶ" translit="Golgothâ"/>   <pronunciation strongs="gol-goth-ah'"/>
 
@@ -6974,8 +6974,8 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="01122">
  <strongs>1122</strongs>   <greek BETA="GRAMMATEU/S" unicode="γραμματεύς" translit="grammateús"/>   <pronunciation strongs="gram-mat-yooce'"/>
 
- <strongs_derivation>from <strongsref language="GREEK" strongs="1121"/>. a writer, i.e. (professionally) scribe or
- secretary</strongs_derivation><kjv_def>:--scribe, town-clerk.</kjv_def>
+ <strongs_derivation>from <strongsref language="GREEK" strongs="1121"/>;</strongs_derivation><strongs_def>a writer, i.e. (professionally) scribe or
+ secretary</strongs_def><kjv_def>:--scribe, town-clerk.</kjv_def>
 
 </entry><entry strongs="01123">
  <strongs>1123</strongs>   <greek BETA="GRAPTO/S" unicode="γραπτός" translit="graptós"/>   <pronunciation strongs="grap-tos'"/>
@@ -7243,8 +7243,8 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="01172">
  <strongs>1172</strongs>   <greek BETA="DEIPNE/W" unicode="δειπνέω" translit="deipnéō"/>   <pronunciation strongs="dipe-neh'-o"/>
 
- <strongs_derivation>from <strongsref language="GREEK" strongs="1173"/>;</strongs_derivation><strongs_def> to dine, i.e. take the principle (or evening) meal</strongs_def><kjv_def>:--sup (X
- -er).</kjv_def>
+ <strongs_derivation>from <strongsref language="GREEK" strongs="1173"/>;</strongs_derivation><strongs_def> to dine, i.e. take the principal (or evening) meal</strongs_def><kjv_def>:--sup (X
+ -per).</kjv_def>
 
 </entry><entry strongs="01173">
  <strongs>1173</strongs>   <greek BETA="DEI=PNON" unicode="δεῖπνον" translit="deîpnon"/>   <pronunciation strongs="dipe'-non"/>
@@ -7601,7 +7601,7 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="01232">
  <strongs>1232</strongs>   <greek BETA="DIAGNWRI/ZW" unicode="διαγνωρίζω" translit="diagnōrízō"/>   <pronunciation strongs="dee-ag-no-rid'-zo"/>
 
- <strongs_derivation>from <strongsref language="GREEK" strongs="1123"/> and <strongsref language="GREEK" strongs="1107"/>;</strongs_derivation><strongs_def> to tell abroad</strongs_def><kjv_def>:--make known.</kjv_def>
+ <strongs_derivation>from <strongsref language="GREEK" strongs="1223"/> and <strongsref language="GREEK" strongs="1107"/>;</strongs_derivation><strongs_def> to tell abroad</strongs_def><kjv_def>:--make known.</kjv_def>
 
 
 </entry><entry strongs="01233">
@@ -8133,7 +8133,7 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="01311">
  <strongs>1311</strongs>   <greek BETA="DIAFQEI/RW" unicode="διαφθείρω" translit="diaphtheírō"/>   <pronunciation strongs="dee-af-thi'-ro"/>
 
- <strongs_derivation>from <strongsref language="GREEK" strongs="1225"/> and <strongsref language="GREEK" strongs="5351"/>;</strongs_derivation><strongs_def> to rot thoroughly, i.e. (by implication) to ruin
+ <strongs_derivation>from <strongsref language="GREEK" strongs="1223"/> and <strongsref language="GREEK" strongs="5351"/>;</strongs_derivation><strongs_def> to rot thoroughly, i.e. (by implication) to ruin
  (passively, decay utterly, figuratively, pervert)</strongs_def><kjv_def>:--corrupt, destroy,
  perish.</kjv_def>
 
@@ -8323,7 +8323,7 @@ and if so, we would appreciate being informed of the error.
  <strongs>1340</strongs>   <greek BETA="DII+SXURI/ZOMAI" unicode="διϊσχυρίζομαι" translit="diïschyrízomai"/>   <pronunciation strongs="dee-is-khoo-rid'-zom-ahee"/>
 
  <strongs_derivation>from <strongsref language="GREEK" strongs="1223"/> and a derivative of <strongsref language="GREEK" strongs="2478"/>;</strongs_derivation><strongs_def> to stout it through, i.e.
- asservate</strongs_def><kjv_def>:--confidently (constantly) affirm.</kjv_def>
+ asseverate</strongs_def><kjv_def>:--confidently (constantly) affirm.</kjv_def>
 
 
 </entry><entry strongs="01341">
@@ -8364,7 +8364,7 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="01347">
  <strongs>1347</strongs>   <greek BETA="DIKAI/WSIS" unicode="δικαίωσις" translit="dikaíōsis"/>   <pronunciation strongs="dik-ah'-yo-sis"/>
 
- <strongs_derivation>from <strongsref language="GREEK" strongs="1344"/>;</strongs_derivation><strongs_def> aquittal (for Christ's sake)</strongs_def><kjv_def>:--justification.</kjv_def>
+ <strongs_derivation>from <strongsref language="GREEK" strongs="1344"/>;</strongs_derivation><strongs_def> acquittal (for Christ's sake)</strongs_def><kjv_def>:--justification.</kjv_def>
 
 </entry><entry strongs="01348">
  <strongs>1348</strongs>   <greek BETA="DIKASTH/S" unicode="δικαστής" translit="dikastḗs"/>   <pronunciation strongs="dik-as-tace'"/>
@@ -9045,7 +9045,7 @@ and if so, we would appreciate being informed of the error.
  <strongs>1459</strongs>   <greek BETA="E)GKATALEI/PW" unicode="ἐγκαταλείπω" translit="enkataleípō"/>   <pronunciation strongs="eng-kat-al-i'-po"/>
 
  <strongs_derivation>from <strongsref language="GREEK" strongs="1722"/> and <strongsref language="GREEK" strongs="2641"/>;</strongs_derivation><strongs_def> to leave behind in some place, i.e. (in a good
- sense) let remain over, or (in a bad sense) to desert</strongs_def><kjv_def>:--forsake,
+ sense) let remain over, or (in a bad one) to desert</strongs_def><kjv_def>:--forsake,
  leave.</kjv_def>
 
 
@@ -9073,7 +9073,7 @@ and if so, we would appreciate being informed of the error.
  <strongs>1463</strongs>   <greek BETA="E)GKOMBO/OMAI" unicode="ἐγκομβόομαι" translit="enkombóomai"/>   <pronunciation strongs="eng-kom-bo'-om-ahee"/>
 
  <strongs_derivation>middle voice from <strongsref language="GREEK" strongs="1722"/> and <greek BETA="KOMBO/W" unicode="κομβόω" translit="kombóō"/> (to gird);</strongs_derivation><strongs_def> to engirdle oneself (for
- labor), i.e. figuratively (the apron as being a badge of servitude) to
+ labor), i.e. figuratively (the apron being a badge of servitude) to
  wear (in token of mutual deference)</strongs_def><kjv_def>:--be clothed with.</kjv_def>
 
 </entry><entry strongs="01464">
@@ -9169,7 +9169,7 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="01478">
  <strongs>1478</strongs>   <greek BETA="*)EZEKI/AS" unicode="Ἐζεκίας" translit="Ezekías"/>   <pronunciation strongs="ed-zek-ee'-as"/>
 
- <strongs_derivation>of Hebrew origin (<strongsref language="HEBREW" strongs="02396"/>);</strongs_derivation><strongs_def> Ezekias (i.e. Hezekeiah), an
+ <strongs_derivation>of Hebrew origin (<strongsref language="HEBREW" strongs="02396"/>);</strongs_derivation><strongs_def> Ezekias (i.e. Hezekiah), an
  Israelite</strongs_def><kjv_def>:--Ezekias.</kjv_def>
 
 </entry><entry strongs="01479">
@@ -9403,8 +9403,8 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="01511">
  <strongs>1511</strongs>   <greek BETA="EI)=NAI" unicode="εἶναι" translit="eînai"/>   <pronunciation strongs="i'-nahee"/>
 
- <strongs_derivation>present infinitive from <strongsref language="GREEK" strongs="1510"/>;</strongs_derivation><strongs_def> to exist</strongs_def><kjv_def>:--am, was.</kjv_def> come, is, X lust
- after, X please well, there is, to be, was.
+ <strongs_derivation>present infinitive from <strongsref language="GREEK" strongs="1510"/>;</strongs_derivation><strongs_def> to exist</strongs_def><kjv_def>:--am, are, come, is, X lust
+ after, X please well, there is, to be, was.</kjv_def>
 
 </entry><entry strongs="01512">
  <strongs>1512</strongs>  <greek BETA="EI)/ PER" unicode="εἴ περ" translit="eí per"/>  <pronunciation strongs="i per"/>
@@ -9579,8 +9579,8 @@ and if so, we would appreciate being informed of the error.
  <strongs>1537</strongs>   <greek BETA="E)K" unicode="ἐκ" translit="ek"/>   <pronunciation strongs="ek"/>
   or <greek BETA="E)C" unicode="ἐξ" translit="ex"/>  <pronunciation strongs="ex"/>
 
- <strongs_derivation>a primary preposition denoting origin (the point whence action or
- motion proceeds), from, out (of place, time, or cause;</strongs_derivation><strongs_def> literal or
+ <strongs_derivation>a primary preposition denoting origin (the point whence motion or action
+ proceeds), from, out (of place, time, or cause;</strongs_derivation><strongs_def> literal or
  figurative; direct or remote)</strongs_def><kjv_def>:--after, among, X are, at,
  betwixt(-yond), by (the means of), exceedingly, (+ abundantly above),
  for(- th), from (among, forth, up), + grudgingly, + heartily, X
@@ -10463,7 +10463,7 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="01682">
  <strongs>1682</strongs>   <greek BETA="E)LOI/+" unicode="ἐλοΐ" translit="eloḯ"/>   <pronunciation strongs="el-o-ee'"/>
 
- <strongs_derivation>of Chaldean origin (<strongsref language="HEBREW" strongs="0426"/> with pronominal suffix) my God</strongs_derivation><kjv_def>:--Eloi.</kjv_def>
+ <strongs_derivation>of Chaldean origin (<strongsref language="HEBREW" strongs="0426"/> with pronominal suffix)</strongs_derivation><strongs_def> my God</strongs_def><kjv_def>:--Eloi.</kjv_def>
 
 </entry><entry strongs="01683">
  <strongs>1683</strongs>   <greek BETA="E)MAUTOU=" unicode="ἐμαυτοῦ" translit="emautoû"/>   <pronunciation strongs="em-ow-too'"/>
@@ -10563,7 +10563,7 @@ and if so, we would appreciate being informed of the error.
  <strongs>1696</strongs>   <greek BETA="E)MME/NW" unicode="ἐμμένω" translit="emménō"/>   <pronunciation strongs="em-men'-o"/>
 
  <strongs_derivation>from <strongsref language="GREEK" strongs="1722"/> and <strongsref language="GREEK" strongs="3306"/>;</strongs_derivation><strongs_def> to stay in the same place, i.e. (figuratively)
- persevere</strongs_def><kjv_def>:--continue.</kjv_def>
+ to persevere</strongs_def><kjv_def>:--continue.</kjv_def>
 
 
 </entry><entry strongs="01697">
@@ -10876,7 +10876,7 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="01744">
  <strongs>1744</strongs>   <greek BETA="E)NDU/NW" unicode="ἐνδύνω" translit="endýnō"/>   <pronunciation strongs="en-doo'-no"/>
 
- <strongs_derivation>from <strongsref language="GREEK" strongs="1772"/> and <strongsref language="GREEK" strongs="1416"/>;</strongs_derivation><strongs_def> to sink (by implication, wrap (compare <strongsref language="GREEK" strongs="1746"/>) on,
+ <strongs_derivation>from <strongsref language="GREEK" strongs="1722"/> and <strongsref language="GREEK" strongs="1416"/>;</strongs_derivation><strongs_def> to sink (by implication, wrap (compare <strongsref language="GREEK" strongs="1746"/>) on,
  i.e. (figuratively) sneak</strongs_def><kjv_def>:--creep.</kjv_def>
 
 
@@ -10917,13 +10917,13 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="01750">
  <strongs>1750</strongs>   <greek BETA="E)NEILE/W" unicode="ἐνειλέω" translit="eneiléō"/>   <pronunciation strongs="en-i-leh'-o"/>
 
- <strongs_derivation>from <strongsref language="GREEK" strongs="1772"/> and the base of <strongsref language="GREEK" strongs="1507"/>;</strongs_derivation><strongs_def> to enwrap</strongs_def><kjv_def>:--wrap in.</kjv_def>
+ <strongs_derivation>from <strongsref language="GREEK" strongs="1722"/> and the base of <strongsref language="GREEK" strongs="1507"/>;</strongs_derivation><strongs_def> to enwrap</strongs_def><kjv_def>:--wrap in.</kjv_def>
 
 
 </entry><entry strongs="01751">
  <strongs>1751</strongs>   <greek BETA="E)/NEIMI" unicode="ἔνειμι" translit="éneimi"/>   <pronunciation strongs="en'-i-mee"/>
 
- <strongs_derivation>from <strongsref language="GREEK" strongs="1772"/> and <strongsref language="GREEK" strongs="1510"/>;</strongs_derivation><strongs_def> to be within (neuter participle plural)</strongs_def><kjv_def>:--such
+ <strongs_derivation>from <strongsref language="GREEK" strongs="1722"/> and <strongsref language="GREEK" strongs="1510"/>;</strongs_derivation><strongs_def> to be within (neuter participle plural)</strongs_def><kjv_def>:--such
  things as … have.</kjv_def> See also <strongsref language="GREEK" strongs="1762"/>.
 
 
@@ -11535,7 +11535,7 @@ and if so, we would appreciate being informed of the error.
  <strongs>1846</strongs>   <greek BETA="E)CORU/SSW" unicode="ἐξορύσσω" translit="exorýssō"/>   <pronunciation strongs="ex-or-oos'-so"/>
 
  <strongs_derivation>from <strongsref language="GREEK" strongs="1537"/> and <strongsref language="GREEK" strongs="3736"/>;</strongs_derivation><strongs_def> to dig out, i.e. (by extension) to extract (an
- eye), remove (roofing)</strongs_def><kjv_def>:--break up, pluck out.</kjv_def>
+ eye), remove (a roofing)</strongs_def><kjv_def>:--break up, pluck out.</kjv_def>
 
 
 </entry><entry strongs="01847">
@@ -11959,7 +11959,7 @@ and if so, we would appreciate being informed of the error.
  <strongs>1910</strongs>   <greek BETA="E)PIBAI/NW" unicode="ἐπιβαίνω" translit="epibaínō"/>   <pronunciation strongs="ep-ee-bah'-ee-no"/>
 
  <strongs_derivation>from <strongsref language="GREEK" strongs="1909"/> and the base of <strongsref language="GREEK" strongs="939"/>;</strongs_derivation><strongs_def> to walk upon, i.e. mount, ascend,
- embark, arrive</strongs_def><kjv_def>:--come (into), enter into, go abroad, sit upon, take
+ embark, arrive</strongs_def><kjv_def>:--come (into), enter into, go aboard, sit upon, take
  ship.</kjv_def>
 
 
@@ -12711,7 +12711,7 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="02022">
  <strongs>2022</strongs>   <greek BETA="E)PIXE/W" unicode="ἐπιχέω" translit="epichéō"/>   <pronunciation strongs="ep-ee-kheh'-o"/>
 
- <strongs_derivation>from <strongsref language="GREEK" strongs="1909"/> and <greek BETA="XE/W" unicode="χέω" translit="chéō"/> (to pour);</strongs_derivation><strongs_def> </strongs_def><kjv_def>--to pour upon:--pour in.</kjv_def>
+ <strongs_derivation>from <strongsref language="GREEK" strongs="1909"/> and <greek BETA="XE/W" unicode="χέω" translit="chéō"/> (to pour);</strongs_derivation><strongs_def> to pour upon</strongs_def><kjv_def>:--pour in.</kjv_def>
 
 </entry><entry strongs="02023">
  <strongs>2023</strongs>   <greek BETA="E)PIXORHGE/W" unicode="ἐπιχορηγέω" translit="epichorēgéō"/>   <pronunciation strongs="ep-ee-khor-ayg-eh'-o"/>
@@ -12982,7 +12982,7 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="02067">
  <strongs>2067</strongs>   <greek BETA="E)/SQHSIS" unicode="ἔσθησις" translit="ésthēsis"/>   <pronunciation strongs="es'-thay-sis"/>
 
- <strongs_derivation>from a derivative of <strongsref language="GREEK" strongs="2066"/>;</strongs_derivation><strongs_def> clothing (concretely)</strongs_def><kjv_def>:--government.</kjv_def>
+ <strongs_derivation>from a derivative of <strongsref language="GREEK" strongs="2066"/>;</strongs_derivation><strongs_def> clothing (concretely)</strongs_def><kjv_def>:--garment.</kjv_def>
 
 </entry><entry strongs="02068">
  <strongs>2068</strongs>   <greek BETA="E)SQI/W" unicode="ἐσθίω" translit="esthíō"/>   <pronunciation strongs="es-thee'-o"/>
@@ -13019,8 +13019,8 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="02073">
  <strongs>2073</strongs>   <greek BETA="E(SPE/RA" unicode="ἑσπέρα" translit="hespéra"/>   <pronunciation strongs="hes-per'-ah"/>
 
- <strongs_derivation>feminine of an adjective hesperos (evening); the eve (<strongsref language="GREEK" strongs="5610"/> being
- implied)</strongs_derivation><kjv_def>:--evening(-tide).</kjv_def>
+ <strongs_derivation>feminine of an adjective hesperos (evening);</strongs_derivation><strongs_def>the eve (<strongsref language="GREEK" strongs="5610"/> being
+ implied)</strongs_def><kjv_def>:--evening(-tide).</kjv_def>
 
 </entry><entry strongs="02074">
  <strongs>2074</strongs>   <greek BETA="*)ESRW/M" unicode="Ἐσρώμ" translit="Esrṓm"/>   <pronunciation strongs="es-rome"/>
@@ -13428,7 +13428,7 @@ and if so, we would appreciate being informed of the error.
  <strongs>2138</strongs>   <greek BETA="EU)PEIQH/S" unicode="εὐπειθής" translit="eupeithḗs"/>   <pronunciation strongs="yoo-pi-thace'"/>
 
  <strongs_derivation>from <strongsref language="GREEK" strongs="2095"/> and <strongsref language="GREEK" strongs="3982"/>;</strongs_derivation><strongs_def> good for persuasion, i.e. (intransitively)
- complaint</strongs_def><kjv_def>:--easy to be intreated.</kjv_def>
+ compliant</strongs_def><kjv_def>:--easy to be intreated.</kjv_def>
 
 
 </entry><entry strongs="02139">
@@ -13743,7 +13743,7 @@ and if so, we would appreciate being informed of the error.
  <strongs>2186</strongs>   <greek BETA="E)FI/STHMI" unicode="ἐφίστημι" translit="ephístēmi"/>   <pronunciation strongs="ef-is'-tay-mee"/>
 
  <strongs_derivation>from <strongsref language="GREEK" strongs="1909"/> and <strongsref language="GREEK" strongs="2476"/>;</strongs_derivation><strongs_def> to stand upon, i.e. be present (in various
- applications, friendly or otherwise, usually literal); </strongs_def><kjv_def>--assault, come
+ applications, friendly or otherwise, usually literal)</strongs_def><kjv_def>:--assault, come
  (in, to, unto, upon), be at hand (instant), present, stand (before,
  by, over).</kjv_def>
 
@@ -14222,14 +14222,14 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="02264">
  <strongs>2264</strongs>   <greek BETA="*(HRW/DHS" unicode="Ἡρώδης" translit="Hērṓdēs"/>   <pronunciation strongs="hay-ro'-dace"/>
 
- <strongs_derivation>compound of <greek BETA="H(/RWS" unicode="ἥρως" translit="hḗrōs"/> (a "hero") and <strongsref language="GREEK" strongs="1491"/>;</strongs_derivation><strongs_def> heroic; Herod, the name of four
+ <strongs_derivation>compound of <greek BETA="H(/RWS" unicode="ἥρως" translit="hḗrōs"/> (a "hero") and <strongsref language="GREEK" strongs="1491"/>;</strongs_derivation><strongs_def> heroic; Herodes, the name of four
  Jewish kings</strongs_def><kjv_def>:--Herod.</kjv_def>
 
 </entry><entry strongs="02265">
  <strongs>2265</strongs>   <greek BETA="*(HRWDIANOI/" unicode="Ἡρωδιανοί" translit="Hērōdianoí"/>   <pronunciation strongs="hay-ro-dee-an-oy'"/>
 
  <strongs_derivation>plural of a derivative of <strongsref language="GREEK" strongs="2264"/>;</strongs_derivation><strongs_def> Herodians, i.e. partisans of
- Herod</strongs_def><kjv_def>:--Herodians.</kjv_def>
+ Herodes</strongs_def><kjv_def>:--Herodians.</kjv_def>
 
 </entry><entry strongs="02266">
  <strongs>2266</strongs>   <greek BETA="*(HRWDIA/S" unicode="Ἡρωδιάς" translit="Hērōdiás"/>   <pronunciation strongs="hay-ro-dee-as'"/>
@@ -14364,7 +14364,7 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="02289">
  <strongs>2289</strongs>   <greek BETA="QANATO/W" unicode="θανατόω" translit="thanatóō"/>   <pronunciation strongs="than-at-o'-o"/>
 
- <strongs_derivation>from <strongsref language="GREEK" strongs="2288"/> to kill (literally or figuratively)</strongs_derivation><kjv_def>:--become dead, (cause to
+ <strongs_derivation>from <strongsref language="GREEK" strongs="2288"/></strongs_derivation><strongs_def> to kill (literally or figuratively)</strongs_def><kjv_def>:--become dead, (cause to
  be) put to death, kill, mortify.</kjv_def>
 
 </entry><entry strongs="02290">
@@ -15009,7 +15009,7 @@ and if so, we would appreciate being informed of the error.
  <strongs>2400</strongs>   <greek BETA="I)DOU/" unicode="ἰδού" translit="idoú"/>   <pronunciation strongs="id-oo'"/>
 
  <strongs_derivation>second person singular imperative middle voice of <strongsref language="GREEK" strongs="1492"/>;</strongs_derivation><strongs_def> used as
- imperative lo!; </strongs_def><kjv_def>--behold, lo, see.</kjv_def>
+ imperative lo!</strongs_def><kjv_def>:--behold, lo, see.</kjv_def>
 
 </entry><entry strongs="02401">
  <strongs>2401</strongs>   <greek BETA="*)IDOUMAI/A" unicode="Ἰδουμαία" translit="Idoumaía"/>   <pronunciation strongs="id-oo-mah'-yah"/>
@@ -15020,7 +15020,7 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="02402">
  <strongs>2402</strongs>   <greek BETA="I(DRW/S" unicode="ἱδρώς" translit="hidrṓs"/>   <pronunciation strongs="hid-roce'"/>
 
- <strongs_derivation>a strengthened form of a primary <greek BETA="I)/DOS" unicode="ἴδος" translit="ídos"/> (sweat): perspiration</strongs_derivation><kjv_def>:--sweat.</kjv_def>
+ <strongs_derivation>a strengthened form of a primary <greek BETA="I)/DOS" unicode="ἴδος" translit="ídos"/> (sweat)</strongs_derivation><strongs_def>perspiration</strongs_def><kjv_def>:--sweat.</kjv_def>
 </entry><entry strongs="02403">
  <strongs>2403</strongs>   <greek BETA="*)IEZABH/L" unicode="Ἰεζαβήλ" translit="Iezabḗl"/>   <pronunciation strongs="ee-ed-zab-ale'"/>
 
@@ -15355,7 +15355,7 @@ and if so, we would appreciate being informed of the error.
  <strongs>2459</strongs>   <greek BETA="*)IOU=STOS" unicode="Ἰοῦστος" translit="Ioûstos"/>   <pronunciation strongs="ee-ooce'-tos"/>
 
  <strongs_derivation>of Latin origin ("just");</strongs_derivation><strongs_def> Justus, the name of three
- Christian</strongs_def><kjv_def>:--Justus.</kjv_def>
+ Christians</strongs_def><kjv_def>:--Justus.</kjv_def>
 </entry><entry strongs="02460">
  <strongs>2460</strongs>   <greek BETA="I(PPEU/S" unicode="ἱππεύς" translit="hippeús"/>   <pronunciation strongs="hip-yooce'"/>
 
@@ -15418,7 +15418,7 @@ and if so, we would appreciate being informed of the error.
  <strongs>2470</strongs>   <greek BETA="I)/SOS" unicode="ἴσος" translit="ísos"/>   <pronunciation strongs="ee'-sos"/>
 
  <strongs_derivation>probably from <strongsref language="GREEK" strongs="1492"/> (through the idea of seeming);</strongs_derivation><strongs_def> similar (in amount
- and kind)</strongs_def><kjv_def>:--+ agree, as much, equal, like.</kjv_def>
+ or kind)</strongs_def><kjv_def>:--+ agree, as much, equal, like.</kjv_def>
 
 </entry><entry strongs="02471">
  <strongs>2471</strongs>   <greek BETA="I)SO/THS" unicode="ἰσότης" translit="isótēs"/>   <pronunciation strongs="ee-sot'-ace"/>
@@ -15937,7 +15937,7 @@ and if so, we would appreciate being informed of the error.
  <strongs>2554</strongs>   <greek BETA="KAKOPOIE/W" unicode="κακοποιέω" translit="kakopoiéō"/>   <pronunciation strongs="kak-op-oy-eh'-o"/>
 
  <strongs_derivation>from <strongsref language="GREEK" strongs="2555"/>;</strongs_derivation><strongs_def> to be a bad-doer, i.e. (objectively) to injure, or
- (genitive) to sin</strongs_def><kjv_def>:--do(ing) evil.</kjv_def>
+ (generally) to sin</strongs_def><kjv_def>:--do(ing) evil.</kjv_def>
 
 </entry><entry strongs="02555">
  <strongs>2555</strongs>   <greek BETA="KAKOPOIO/S" unicode="κακοποιός" translit="kakopoiós"/>   <pronunciation strongs="kak-op-oy-os'"/>
@@ -16202,7 +16202,7 @@ and if so, we would appreciate being informed of the error.
  <strongs>2597</strongs>   <greek BETA="KATABAI/NW" unicode="καταβαίνω" translit="katabaínō"/>   <pronunciation strongs="kat-ab-ah'-ee-no"/>
 
  <strongs_derivation>from <strongsref language="GREEK" strongs="2596"/> and the base of <strongsref language="GREEK" strongs="939"/>;</strongs_derivation><strongs_def> to descend (literally or
- figuratively)</strongs_def><kjv_def>:--come (get, go, step) down, fall (down).</kjv_def>
+ figuratively)</strongs_def><kjv_def>:--come (get, go, step) down, descend, fall (down).</kjv_def>
 
 
 </entry><entry strongs="02598">
@@ -16509,7 +16509,7 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="02645">
  <strongs>2645</strongs>   <greek BETA="KATA/LOIPOS" unicode="κατάλοιπος" translit="katáloipos"/>   <pronunciation strongs="kat-al'-oy-pos"/>
 
- <strongs_derivation>from <strongsref language="GREEK" strongs="2596"/> and <strongsref language="GREEK" strongs="3062"/>;</strongs_derivation><strongs_def> left down (behind), i.e remaining (plural the
+ <strongs_derivation>from <strongsref language="GREEK" strongs="2596"/> and <strongsref language="GREEK" strongs="3062"/>;</strongs_derivation><strongs_def> left down (behind), i.e. remaining (plural the
  rest)</strongs_def><kjv_def>:--residue.</kjv_def>
 
 
@@ -16902,7 +16902,7 @@ and if so, we would appreciate being informed of the error.
  <strongs>2704</strongs>   <greek BETA="KATAFQEI/RW" unicode="καταφθείρω" translit="kataphtheírō"/>   <pronunciation strongs="kat-af-thi'-ro"/>
 
  <strongs_derivation>from <strongsref language="GREEK" strongs="2596"/> and <strongsref language="GREEK" strongs="5351"/>;</strongs_derivation><strongs_def> to spoil entirely, i.e. (literally) to destroy; or
- (figuratively) to deprave; </strongs_def><kjv_def>--corrupt, utterly perish.</kjv_def>
+ (figuratively) to deprave</strongs_def><kjv_def>:--corrupt, utterly perish.</kjv_def>
 
 
 </entry><entry strongs="02705">
@@ -16974,7 +16974,7 @@ and if so, we would appreciate being informed of the error.
  <strongs>2716</strongs>   <greek BETA="KATERGA/ZOMAI" unicode="κατεργάζομαι" translit="katergázomai"/>   <pronunciation strongs="kat-er-gad'-zom-ahee"/>
 
  <strongs_derivation>from <strongsref language="GREEK" strongs="2596"/> and <strongsref language="GREEK" strongs="2038"/>;</strongs_derivation><strongs_def> to work fully, i.e. accomplish; by implication, to
- finish, fashion</strongs_def><kjv_def>:--cause, to (deed), perform, work (out).</kjv_def>
+ finish, fashion</strongs_def><kjv_def>:--cause, do (deed), perform, work (out).</kjv_def>
 
 
 </entry><entry strongs="02717">
@@ -17137,7 +17137,7 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="02741">
  <strongs>2741</strongs>   <greek BETA="KAUSO/W" unicode="καυσόω" translit="kausóō"/>   <pronunciation strongs="kow-so'-o"/>
 
- <strongs_derivation>from <strongsref language="GREEK" strongs="2740"/>;</strongs_derivation><strongs_def> to set on fire</strongs_def><kjv_def>:--fervent heat.</kjv_def>
+ <strongs_derivation>from <strongsref language="GREEK" strongs="2740"/>;</strongs_derivation><strongs_def> to set on fire</strongs_def><kjv_def>:--with fervent heat.</kjv_def>
 
 </entry><entry strongs="02742">
  <strongs>2742</strongs>   <greek BETA="KAU/SWN" unicode="καύσων" translit="kaúsōn"/>   <pronunciation strongs="kow'-sone"/>
@@ -17176,7 +17176,7 @@ and if so, we would appreciate being informed of the error.
  <strongs>2747</strongs>   <greek BETA="*KEGXREAI/" unicode="Κεγχρεαί" translit="Kenchreaí"/>   <pronunciation strongs="keng-khreh-a'-hee"/>
 
  <strongs_derivation>probably from <greek BETA="KE/GXROS" unicode="κέγχρος" translit="kénchros"/> (millet);</strongs_derivation><strongs_def> Cenchreæ, a port of
- Corinth</strongs_def><kjv_def>:--Cencrea.</kjv_def>
+ Corinth</strongs_def><kjv_def>:--Cenchrea.</kjv_def>
 </entry><entry strongs="02748">
  <strongs>2748</strongs>   <greek BETA="*KEDRW/N" unicode="Κεδρών" translit="Kedrṓn"/>   <pronunciation strongs="ked-rone'"/>
 
@@ -17383,7 +17383,7 @@ and if so, we would appreciate being informed of the error.
  <strongs>2784</strongs>   <greek BETA="KHRU/SSW" unicode="κηρύσσω" translit="kērýssō"/>   <pronunciation strongs="kay-roos'-so"/>
 
  <strongs_derivation>of uncertain affinity;</strongs_derivation><strongs_def> to herald (as a public crier), especially
- divine truth (the gospel)</strongs_def><kjv_def>:--preacher(-er), proclaim, publish.</kjv_def>
+ divine truth (the gospel)</strongs_def><kjv_def>:--preach (-er), proclaim, publish.</kjv_def>
 </entry><entry strongs="02785">
  <strongs>2785</strongs>   <greek BETA="KH=TOS" unicode="κῆτος" translit="kētos"/>   <pronunciation strongs="kay'-tos"/>
 
@@ -17640,7 +17640,7 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="02832">
  <strongs>2832</strongs>   <greek BETA="*KLWPA=S" unicode="Κλωπᾶς" translit="Klōpâs"/>   <pronunciation strongs="klo-pas'"/>
 
- <strongs_derivation>of Chaldee origin (corresponding to <strongsref language="HEBREW" strongs="0256"/>);</strongs_derivation><strongs_def> Clopas, an
+ <strongs_derivation>of Chaldee origin (corresponding to <strongsref language="HEBREW" strongs="256"/>);</strongs_derivation><strongs_def> Clopas, an
  Israelite</strongs_def><kjv_def>:--Cleophas.</kjv_def>
 
 </entry><entry strongs="02833">
@@ -17758,7 +17758,7 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="02854">
  <strongs>2854</strongs>   <greek BETA="KOLLOU/RION" unicode="κολλούριον" translit="kolloúrion"/>   <pronunciation strongs="kol-loo'-ree-on"/>
 
- <strongs_derivation>neuter of a presumed derivative of <greek BETA="KOLLU/RA" unicode="κολλύρα" translit="kollýra"/> (a cake; prob akin to the
+ <strongs_derivation>neuter of a presumed derivative of <greek BETA="KOLLU/RA" unicode="κολλύρα" translit="kollýra"/> (a cake; probably akin to the
  base of <strongsref language="GREEK" strongs="2853"/>);</strongs_derivation><strongs_def> properly, a poultice (as made of or in the form of
  crackers), i.e. (by analogy) a plaster</strongs_def><kjv_def>:-- eyesalve.</kjv_def>
 
@@ -17826,7 +17826,7 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="02866">
  <strongs>2866</strongs>   <greek BETA="KOMYO/TERON" unicode="κομψότερον" translit="kompsóteron"/>   <pronunciation strongs="komp-sot'-er-on"/>
 
- <strongs_derivation>neuter comparative of a derivative of the base of 2865 (meaning,
+ <strongs_derivation>neuter comparative of a derivative of the base of <strongsref language="GREEK" strongs="2865"/> (meaning,
  properly, well dressed, i.e. nice);</strongs_derivation><strongs_def> figuratively, convalescent</strongs_def><kjv_def>:--+
  began to amend.</kjv_def>
 </entry><entry strongs="02867">
@@ -17943,7 +17943,7 @@ and if so, we would appreciate being informed of the error.
  behaviour, modest.</kjv_def>
 
 </entry><entry strongs="02888">
- <strongs>2888</strongs>   <greek BETA="KOSMOKRA/TWR" unicode="κοσμοκράτωρ" translit="kosmokrátōr"/>   <pronunciation strongs="kos-mok-fat'-ore"/>
+ <strongs>2888</strongs>   <greek BETA="KOSMOKRA/TWR" unicode="κοσμοκράτωρ" translit="kosmokrátōr"/>   <pronunciation strongs="kos-mok-rat'-ore"/>
 
  <strongs_derivation>from <strongsref language="GREEK" strongs="2889"/> and <strongsref language="GREEK" strongs="2902"/>;</strongs_derivation><strongs_def> a world-ruler, an epithet of Satan</strongs_def><kjv_def>:--ruler.</kjv_def>
 
@@ -19255,7 +19255,7 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="03128">
  <strongs>3128</strongs>   <greek BETA="*MANASSH=S" unicode="Μανασσῆς" translit="Manassēs"/>   <pronunciation strongs="man-as-sace'"/>
 
- <strongs_derivation>of Hebrew origin (<strongsref language="HEBREW" strongs="04519"/>);</strongs_derivation><strongs_def> Mannasses (i.e. Menashsheh), an
+ <strongs_derivation>of Hebrew origin (<strongsref language="HEBREW" strongs="04519"/>);</strongs_derivation><strongs_def>Manasses (i.e. Menashsheh), an
  Israelite</strongs_def><kjv_def>:--Manasses.</kjv_def>
 
 </entry><entry strongs="03129">
@@ -19957,7 +19957,7 @@ and if so, we would appreciate being informed of the error.
 
  <strongs_derivation>from an obsolete but more primary form of <greek BETA="MEI/ROMAI" unicode="μείρομαι" translit="meíromai"/> (to get as a
  section or allotment);</strongs_derivation><strongs_def> a division or share (literally or figuratively,
- in a wide application)</strongs_def><kjv_def>:--behalf, course, coast, craft, particular (+
+ in a wide application)</strongs_def><kjv_def>:--behalf, coast, course, craft, particular (+
  -ly), part (+ -ly), piece, portion, respect, side, some sort(-what).</kjv_def>
 </entry><entry strongs="03314">
  <strongs>3314</strongs>   <greek BETA="MESHMBRI/A" unicode="μεσημβρία" translit="mesēmbría"/>   <pronunciation strongs="mes-ame-bree'-ah"/>
@@ -19968,7 +19968,7 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="03315">
  <strongs>3315</strongs>   <greek BETA="MESITEU/W" unicode="μεσιτεύω" translit="mesiteúō"/>   <pronunciation strongs="mes-it-yoo'-o"/>
 
- <strongs_derivation>from <strongsref language="GREEK" strongs="3316"/>;</strongs_derivation><strongs_def> to interpose (as arbiter), i.e (by implication) to ratify
+ <strongs_derivation>from <strongsref language="GREEK" strongs="3316"/>;</strongs_derivation><strongs_def> to interpose (as arbiter), i.e. (by implication) to ratify
  (as surety)</strongs_def><kjv_def>:--confirm.</kjv_def>
 
 </entry><entry strongs="03316">
@@ -20067,7 +20067,7 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="03329">
  <strongs>3329</strongs>   <greek BETA="META/GW" unicode="μετάγω" translit="metágō"/>   <pronunciation strongs="met-ag'-o"/>
 
- <strongs_derivation>from <strongsref language="GREEK" strongs="3326"/> and <strongsref language="GREEK" strongs="718"/>;</strongs_derivation><strongs_def> to lead over, i.e. transfer (direct)</strongs_def><kjv_def>:--turn about.</kjv_def>
+ <strongs_derivation>from <strongsref language="GREEK" strongs="3326"/> and <strongsref language="GREEK" strongs="71"/>;</strongs_derivation><strongs_def> to lead over, i.e. transfer (direct)</strongs_def><kjv_def>:--turn about.</kjv_def>
 
 
 </entry><entry strongs="03330">
@@ -20267,7 +20267,7 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="03359">
  <strongs>3359</strongs>   <greek BETA="ME/TWPON" unicode="μέτωπον" translit="métōpon"/>   <pronunciation strongs="met'-o-pon"/>
 
- <strongs_derivation>from <strongsref language="GREEK" strongs="3326"/> and ops (the face);</strongs_derivation><strongs_def> the forehead (as opposite the
+ <strongs_derivation>from <strongsref language="GREEK" strongs="3326"/> and ὤψ ōps (the face);</strongs_derivation><strongs_def> the forehead (as opposite the
  countenance)</strongs_def><kjv_def>:--forehead.</kjv_def>
 
 </entry><entry strongs="03360">
@@ -20442,7 +20442,7 @@ and if so, we would appreciate being informed of the error.
  <strongs>3383</strongs>   <greek BETA="MH/TE" unicode="μήτε" translit="mḗte"/>   <pronunciation strongs="may'-teh"/>
 
  <strongs_derivation>from <strongsref language="GREEK" strongs="3361"/> and <strongsref language="GREEK" strongs="5037"/>;</strongs_derivation><strongs_def> not too, i.e. (in continued negation) neither or
- nor; also, not even</strongs_def><kjv_def>:--neither, (n-)or, so as much.</kjv_def>
+ nor; also, not even</strongs_def><kjv_def>:--neither, (n-)or, so much as.</kjv_def>
 
 
 </entry><entry strongs="03384">
@@ -20570,7 +20570,7 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="03406">
  <strongs>3406</strongs>   <greek BETA="MISQAPODO/THS" unicode="μισθαποδότης" translit="misthapodótēs"/>   <pronunciation strongs="mis-thap-od-ot'-ace"/>
 
- <strongs_derivation>from <strongsref language="GREEK" strongs="3409"/> and <strongsref language="GREEK" strongs="591"/>;</strongs_derivation><strongs_def> a renumerator</strongs_def><kjv_def>:--rewarder.</kjv_def>
+ <strongs_derivation>from <strongsref language="GREEK" strongs="3409"/> and <strongsref language="GREEK" strongs="591"/>;</strongs_derivation><strongs_def> a remunerator</strongs_def><kjv_def>:--rewarder.</kjv_def>
 
 
 </entry><entry strongs="03407">
@@ -20902,7 +20902,7 @@ and if so, we would appreciate being informed of the error.
  <strongs>3467</strongs>   <greek BETA="MUWPA/ZW" unicode="μυωπάζω" translit="myōpázō"/>   <pronunciation strongs="moo-ope-ad'-zo"/>
 
  <strongs_derivation>from a compound of the base of <strongsref language="GREEK" strongs="3466"/> and <greek BETA="W)/Y" unicode="ὤψ" translit="ṓps"/> (the face; from <strongsref language="GREEK" strongs="3700"/>);</strongs_derivation><strongs_def> to
- shut the eyes, i.e. blink (see indistinctly)</strongs_def><kjv_def>:-- cannot see far off.</kjv_def>
+ shut the eyes, i.e. blink (see indistinctly)</strongs_def><kjv_def>:-- cannot see afar off.</kjv_def>
 
 
 </entry><entry strongs="03468">
@@ -21335,7 +21335,7 @@ and if so, we would appreciate being informed of the error.
 
  <strongs_derivation>from <strongsref language="GREEK" strongs="3551"/>;</strongs_derivation><strongs_def> properly, to do by law (usage), i.e. to accustom
  (passively, be usual); by extension, to deem or regard</strongs_def><kjv_def>:-- suppose,
- thing, be wont.</kjv_def>
+ think, be wont.</kjv_def>
 
 </entry><entry strongs="03544">
  <strongs>3544</strongs>   <greek BETA="NOMIKO/S" unicode="νομικός" translit="nomikós"/>   <pronunciation strongs="nom-ik-os'"/>
@@ -21615,7 +21615,7 @@ and if so, we would appreciate being informed of the error.
 
  <strongs_derivation>the definite article;</strongs_derivation><strongs_def> the (sometimes to be
  supplied, at others omitted, in English idiom)</strongs_def><kjv_def>:--the, this, that, one,
- he, she, it, etc.</kjv_def>
+ he, she, it, etc.</kjv_def> ὁ ho See <strongsref language="GREEK" strongs="3739"/>
 </entry><entry strongs="03589">
  <strongs>3589</strongs>   <greek BETA="O)GDOH/KONTA" unicode="ὀγδοήκοντα" translit="ogdoḗkonta"/>   <pronunciation strongs="og-do-ay'-kon-tah"/>
 
@@ -22190,7 +22190,7 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="03684">
  <strongs>3684</strongs>   <greek BETA="O)NIKO/S" unicode="ὀνικός" translit="onikós"/>   <pronunciation strongs="on-ik-os'"/>
 
- <strongs_derivation>from <strongsref language="GREEK" strongs="3688"/>;</strongs_derivation><strongs_def> belonging to a ass, i.e. large (so as to be turned by a
+ <strongs_derivation>from <strongsref language="GREEK" strongs="3688"/>;</strongs_derivation><strongs_def> belonging to an ass, i.e. large (so as to be turned by an
  ass)</strongs_def><kjv_def>:--millstone.</kjv_def>
 
 </entry><entry strongs="03685">
@@ -22424,9 +22424,9 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="03718">
  <strongs>3718</strongs>   <greek BETA="O)RQOTOME/W" unicode="ὀρθοτομέω" translit="orthotoméō"/>   <pronunciation strongs="or-thot-om-eh'-o"/>
 
- <strongs_derivation>from a compound of <strongsref language="GREEK" strongs="3717"/> and the base of <strongsref language="GREEK" strongs="5114"/>, to make a straight cut,
+ <strongs_derivation>from a compound of <strongsref language="GREEK" strongs="3717"/> and the base of <strongsref language="GREEK" strongs="5114"/>;</strongs_derivation><strongs_def>to make a straight cut,
  i.e. (figuratively) to dissect (expound) correctly (the divine
- message)</strongs_derivation><kjv_def>:--rightly divide.</kjv_def>
+ message)</strongs_def><kjv_def>:--rightly divide.</kjv_def>
 
 
 </entry><entry strongs="03719">
@@ -22982,7 +22982,8 @@ and if so, we would appreciate being informed of the error.
  <strongs>3803</strongs>   <greek BETA="PAGI/S" unicode="παγίς" translit="pagís"/>   <pronunciation strongs="pag-ece'"/>
 
  <strongs_derivation>from <strongsref language="GREEK" strongs="4078"/>;</strongs_derivation><strongs_def> a trap (as fastened by a noose or notch); figuratively, a
- trick or statagem (temptation)</strongs_def><kjv_def>:--snare.</kjv_def>
+ trick or stratagem (temptation)</strongs_def><kjv_def>:--snare.</kjv_def>
+ πάγος pagós. See <strongsref language="GREEK" strongs="697"/> 
 
 </entry><entry strongs="03804">
  <strongs>3804</strongs>   <greek BETA="PA/QHMA" unicode="πάθημα" translit="páthēma"/>   <pronunciation strongs="path'-ay-mah"/>
@@ -23003,6 +23004,7 @@ and if so, we would appreciate being informed of the error.
  <strongs_derivation>from the alternate of <strongsref language="GREEK" strongs="3958"/>;</strongs_derivation><strongs_def> properly, suffering ("pathos"), i.e.
  (subjectively) a passion (especially concupiscence)</strongs_def><kjv_def>:-- (inordinate)
  affection, lust.</kjv_def>
+ πάθω pathó. See <strongsref language="GREEK" strongs="3958"/> 
 
 </entry><entry strongs="03807">
  <strongs>3807</strongs>   <greek BETA="PAIDAGWGO/S" unicode="παιδαγωγός" translit="paidagōgós"/>   <pronunciation strongs="pahee-dag-o-gos'"/>
@@ -23138,7 +23140,7 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="03828">
  <strongs>3828</strongs>   <greek BETA="*PAMFULI/A" unicode="Παμφυλία" translit="Pamphylía"/>   <pronunciation strongs="pam-fool-ee'-ah"/>
 
- <strongs_derivation>from a compound of <strongsref language="GREEK" strongs="3956"/> and <strongsref language="GREEK" strongs="4443"/>;</strongs_derivation><strongs_def> every-tribal, i.e. heterogeneous
+ <strongs_derivation>from a compound of <strongsref language="GREEK" strongs="3956"/> and <strongsref language="GREEK" strongs="5443"/>;</strongs_derivation><strongs_def> every-tribal, i.e. heterogeneous
  (<strongsref language="GREEK" strongs="5561"/> being implied); Pamphylia, a region of Asia Minor</strongs_def><kjv_def>:--Pamphylia.</kjv_def>
 
 
@@ -23353,7 +23355,7 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="03860">
  <strongs>3860</strongs>   <greek BETA="PARADI/DWMI" unicode="παραδίδωμι" translit="paradídōmi"/>   <pronunciation strongs="par-ad-id'-o-mee"/>
 
- <strongs_derivation>from <strongsref language="GREEK" strongs="3844"/> and <strongsref language="GREEK" strongs="1325"/>;</strongs_derivation><strongs_def> to surrender, i.e yield up, intrust,
+ <strongs_derivation>from <strongsref language="GREEK" strongs="3844"/> and <strongsref language="GREEK" strongs="1325"/>;</strongs_derivation><strongs_def> to surrender, i.e. yield up, intrust,
  transmit</strongs_def><kjv_def>:--betray, bring forth, cast, commit, deliver (up), give
  (over, up), hazard, put in prison, recommend.</kjv_def>
 
@@ -23662,7 +23664,7 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="03907">
  <strongs>3907</strongs>   <greek BETA="PARATH/RHSIS" unicode="παρατήρησις" translit="paratḗrēsis"/>   <pronunciation strongs="par-at-ay'-ray-sis"/>
 
- <strongs_derivation>from <strongsref language="GREEK" strongs="3906"/>;</strongs_derivation><strongs_def> inspection, i.e. ocular evidence</strongs_def><kjv_def>:--obervation.</kjv_def>
+ <strongs_derivation>from <strongsref language="GREEK" strongs="3906"/>;</strongs_derivation><strongs_def> inspection, i.e. ocular evidence</strongs_def><kjv_def>:--observation.</kjv_def>
 
 </entry><entry strongs="03908">
  <strongs>3908</strongs>   <greek BETA="PARATI/QHMI" unicode="παρατίθημι" translit="paratíthēmi"/>   <pronunciation strongs="par-at-ith'-ay-mee"/>
@@ -23759,7 +23761,7 @@ and if so, we would appreciate being informed of the error.
  <strongs>3922</strongs>   <greek BETA="PAREISE/RXOMAI" unicode="παρεισέρχομαι" translit="pareisérchomai"/>   <pronunciation strongs="par-ice-er'-khom-ahee"/>
 
  <strongs_derivation>from <strongsref language="GREEK" strongs="3844"/> and <strongsref language="GREEK" strongs="1525"/>;</strongs_derivation><strongs_def> to come in alongside, i.e. supervene additionally
- or steathily</strongs_def><kjv_def>:--come in privily, enter.</kjv_def>
+ or stealthily</strongs_def><kjv_def>:--come in privily, enter.</kjv_def> 
 
 
 </entry><entry strongs="03923">
@@ -24057,7 +24059,7 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="03968">
  <strongs>3968</strongs>   <greek BETA="PATRI/S" unicode="πατρίς" translit="patrís"/>   <pronunciation strongs="pat-rece'"/>
 
- <strongs_derivation>from <strongsref language="GREEK" strongs="3902"/>;</strongs_derivation><strongs_def> a father-land, i.e. native town; (figuratively) heavenly
+ <strongs_derivation>from <strongsref language="GREEK" strongs="3962"/>;</strongs_derivation><strongs_def> a father-land, i.e. native town; (figuratively) heavenly
  home</strongs_def><kjv_def>:--(own) country.</kjv_def>
 
 </entry><entry strongs="03969">
@@ -24523,7 +24525,7 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="04041">
  <strongs>4041</strongs>   <greek BETA="PERIOU/SIOS" unicode="περιούσιος" translit="perioúsios"/>   <pronunciation strongs="per-ee-oo'-see-os"/>
 
- <strongs_derivation>from the present participle feminine of a compound of 4012 and <strongsref language="GREEK" strongs="1510"/>;</strongs_derivation><strongs_def>
+ <strongs_derivation>from the present participle feminine of a compound of <strongsref language="GREEK" strongs="4012"/> and <strongsref language="GREEK" strongs="1510"/>;</strongs_derivation><strongs_def>
  being beyond usual, i.e. special (one's own)</strongs_def><kjv_def>:--peculiar.</kjv_def>
 
 </entry><entry strongs="04042">
@@ -24954,7 +24956,7 @@ and if so, we would appreciate being informed of the error.
  <strongs>4108</strongs>   <greek BETA="PLA/NOS" unicode="πλάνος" translit="plános"/>   <pronunciation strongs="plan'-os"/>
 
  <strongs_derivation>of uncertain affinity;</strongs_derivation><strongs_def> roving (as a tramp), i.e. (by implication) an
- impostor or misleader; </strongs_def><kjv_def>--deceiver, seducing.</kjv_def>
+ impostor or misleader</strongs_def><kjv_def>:--deceiver, seducing.</kjv_def>
 </entry><entry strongs="04109">
  <strongs>4109</strongs>   <greek BETA="PLA/C" unicode="πλάξ" translit="pláx"/>   <pronunciation strongs="plax"/>
 
@@ -25169,7 +25171,7 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="04143">
  <strongs>4143</strongs>   <greek BETA="PLOI=ON" unicode="πλοῖον" translit="ploîon"/>   <pronunciation strongs="ploy'-on"/>
 
- <strongs_derivation>from <strongsref language="GREEK" strongs="4126"/>;</strongs_derivation><strongs_def> a sailer, i.e. vessel</strongs_def><kjv_def>:--ship(-ing).</kjv_def>
+ <strongs_derivation>from<strongsref language="GREEK" strongs="4126"/>;</strongs_derivation><strongs_def>a sailer, i.e. vessel</strongs_def><kjv_def>:--ship(-ping).</kjv_def> 
 
 </entry><entry strongs="04144">
  <strongs>4144</strongs>   <greek BETA="PLO/OS" unicode="πλόος" translit="plóos"/>   <pronunciation strongs="plo'-os"/>
@@ -25299,7 +25301,7 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="04163">
  <strongs>4163</strongs>   <greek BETA="POIHTH/S" unicode="ποιητής" translit="poiētḗs"/>   <pronunciation strongs="poy-ay-tace'"/>
 
- <strongs_derivation>from <strongsref language="GREEK" strongs="4160"/>;</strongs_derivation><strongs_def> a performer; specially, a "poet"; </strongs_def><kjv_def>--doer, poet.</kjv_def>
+ <strongs_derivation>from <strongsref language="GREEK" strongs="4160"/>;</strongs_derivation><strongs_def> a performer; specially, a "poet"</strongs_def><kjv_def>:--doer, poet.</kjv_def>
 
 </entry><entry strongs="04164">
  <strongs>4164</strongs>   <greek BETA="POIKI/LOS" unicode="ποικίλος" translit="poikílos"/>   <pronunciation strongs="poy-kee'-los"/>
@@ -25523,7 +25525,7 @@ and if so, we would appreciate being informed of the error.
 
  <strongs_derivation>middle voice from a derivative of the same as <strongsref language="GREEK" strongs="3984"/>;</strongs_derivation><strongs_def> to traverse, i.e.
  travel (literally or figuratively; especially to remove (figuratively,
- die), live, etc.); </strongs_def><kjv_def>--depart, go (away, forth, one's way, up), (make a,
+ die), live, etc.)</strongs_def><kjv_def>:--depart, go (away, forth, one's way, up), (make a,
  take a) journey, walk.</kjv_def>
 
 </entry><entry strongs="04199">
@@ -25616,7 +25618,7 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="04214">
  <strongs>4214</strongs>   <greek BETA="PO/SOS" unicode="πόσος" translit="pósos"/>   <pronunciation strongs="pos'-os"/>
 
- <strongs_derivation>from an absolute <greek BETA="PO/S" unicode="πός" translit="pós"/> (who, what) and <strongsref language="GREEK" strongs="3739"/>;</strongs_derivation><strongs_def> interrogative pronoun (of
+ <strongs_derivation>from an obsolete <greek BETA="PO/S" unicode="πός" translit="pós"/> (who, what) and <strongsref language="GREEK" strongs="3739"/>;</strongs_derivation><strongs_def> interrogative pronoun (of
  amount) how much (large, long or (plural) many)</strongs_def><kjv_def>:--how great (long,
  many), what.</kjv_def>
 
@@ -25802,7 +25804,7 @@ and if so, we would appreciate being informed of the error.
  <strongs>4244</strongs>   <greek BETA="PRESBUTE/RION" unicode="πρεσβυτέριον" translit="presbytérion"/>   <pronunciation strongs="pres-boo-ter'-ee-on"/>
 
  <strongs_derivation>neuter of a presumed derivative of <strongsref language="GREEK" strongs="4245"/>;</strongs_derivation><strongs_def> the order of elders, i.e.
- (specially), Israelite Sanhedrin or Christian "presbytery"</strongs_def><kjv_def>:--(estate
+ (specially), Israelite Sanhedrim or Christian "presbytery"</strongs_def><kjv_def>:--(estate
  of) elder(-s), presbytery.</kjv_def>
 
 </entry><entry strongs="04245">
@@ -25942,7 +25944,7 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="04266">
  <strongs>4266</strongs>   <greek BETA="PROGI/NOMAI" unicode="προγίνομαι" translit="progínomai"/>   <pronunciation strongs="prog-in'-om-ahee"/>
 
- <strongs_derivation>from <strongsref language="GREEK" strongs="4253"/> and <strongsref language="GREEK" strongs="1096"/>;</strongs_derivation><strongs_def> to be already, i.e. have previousy transpired</strongs_def><kjv_def>:--be
+ <strongs_derivation>from <strongsref language="GREEK" strongs="4253"/> and <strongsref language="GREEK" strongs="1096"/>;</strongs_derivation><strongs_def> to be already, i.e. have previously transpired</strongs_def><kjv_def>:--be
  past.</kjv_def>
 
 
@@ -26345,7 +26347,7 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="04324">
  <strongs>4324</strongs>   <greek BETA="PROSAPEILE/W" unicode="προσαπειλέω" translit="prosapeiléō"/>   <pronunciation strongs="pros-ap-i-leh'-o"/>
 
- <strongs_derivation>from <strongsref language="GREEK" strongs="4314"/> and <strongsref language="GREEK" strongs="546"/>;</strongs_derivation><strongs_def> to menace additionally</strongs_def><kjv_def>:--i.</kjv_def>e. threaten further.
+ <strongs_derivation>from <strongsref language="GREEK" strongs="4314"/> and <strongsref language="GREEK" strongs="546"/>;</strongs_derivation><strongs_def> to menace additionally</strongs_def><kjv_def>:--threaten further.</kjv_def>
 
 
 </entry><entry strongs="04325">
@@ -26432,7 +26434,7 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="04337">
  <strongs>4337</strongs>   <greek BETA="PROSE/XW" unicode="προσέχω" translit="proséchō"/>   <pronunciation strongs="pros-ekh'-o"/>
 
- <strongs_derivation>from <strongsref language="GREEK" strongs="4314"/> and <strongsref language="GREEK" strongs="2192"/>;</strongs_derivation><strongs_def> (figuratively) to hold the mind (3563 implied)
+ <strongs_derivation>from <strongsref language="GREEK" strongs="4314"/> and <strongsref language="GREEK" strongs="2192"/>;</strongs_derivation><strongs_def> (figuratively) to hold the mind (<strongsref language="GREEK" strongs="3563"/> implied)
  towards, i.e. pay attention to, be cautious about, apply oneself to,
  adhere to</strongs_def><kjv_def>:--(give) attend(-ance, -ance at, -ance to, unto), beware, be
  given to, give (take) heed (to unto); have regard.</kjv_def>
@@ -26479,7 +26481,7 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="04343">
  <strongs>4343</strongs>   <greek BETA="PROSKARTE/RHSIS" unicode="προσκαρτέρησις" translit="proskartérēsis"/>   <pronunciation strongs="pros-kar-ter'-ay-sis"/>
 
- <strongs_derivation>from <strongsref language="GREEK" strongs="4342"/>;</strongs_derivation><strongs_def> persistancy</strongs_def><kjv_def>:--perseverance.</kjv_def>
+ <strongs_derivation>from <strongsref language="GREEK" strongs="4342"/>;</strongs_derivation><strongs_def>persistency</strongs_def><kjv_def>:--perseverance.</kjv_def>
 
 </entry><entry strongs="04344">
  <strongs>4344</strongs>   <greek BETA="PROSKEFA/LAION" unicode="προσκεφάλαιον" translit="proskephálaion"/>   <pronunciation strongs="pros-kef-al'-ahee-on"/>
@@ -26593,7 +26595,7 @@ and if so, we would appreciate being informed of the error.
  <strongs>4360</strongs>   <greek BETA="PROSOXQI/ZW" unicode="προσοχθίζω" translit="prosochthízō"/>   <pronunciation strongs="pros-okh-thid'-zo"/>
 
  <strongs_derivation>from <strongsref language="GREEK" strongs="4314"/> and a form of <greek BETA="O)XQE/W" unicode="ὀχθέω" translit="ochthéō"/> (to be vexed with something irksome);</strongs_derivation><strongs_def>
- to feel indignant at</strongs_def><kjv_def>:--be grieved at.</kjv_def>
+ to feel indignant at</strongs_def><kjv_def>:--be grieved with.</kjv_def> 
 
 </entry><entry strongs="04361">
  <strongs>4361</strongs>   <greek BETA="PRO/SPEINOS" unicode="πρόσπεινος" translit="próspeinos"/>   <pronunciation strongs="pros'-pi-nos"/>
@@ -27029,7 +27031,7 @@ and if so, we would appreciate being informed of the error.
  <strongs>4428</strongs>   <greek BETA="PTU/SSW" unicode="πτύσσω" translit="ptýssō"/>   <pronunciation strongs="ptoos'-so"/>
 
  <strongs_derivation>probably akin to <greek BETA="PETA/NNUMI" unicode="πετάννυμι" translit="petánnymi"/> (to spread;</strongs_derivation><strongs_def> and thus apparently allied to
- <strongsref language="GREEK" strongs="4072"/> through the idea of expansion, and to 4429 through that of
+ <strongsref language="GREEK" strongs="4072"/> through the idea of expansion, and to <strongsref language="GREEK" strongs="4429"/> through that of 
  flattening; compare <strongsref language="GREEK" strongs="3961"/>); to fold, i.e. furl a scroll</strongs_def><kjv_def>:--close.</kjv_def>
 
 
@@ -27246,7 +27248,7 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="04461">
  <strongs>4461</strongs>   <greek BETA="R(ABBI/" unicode="ῥαββί" translit="rhabbí"/>   <pronunciation strongs="hrab-bee'"/>
 
- <strongs_derivation>of Hebrew origin (<strongsref language="HEBREW" strongs="07227"/> with pronominal suffix);</strongs_derivation><strongs_def> my master, i.e Rabbi,
+ <strongs_derivation>of Hebrew origin ( <strongsref language="HEBREW" strongs="07227"/> with pronominal suffix);</strongs_derivation><strongs_def>my master, i.e. Rabbi, 
  as an official title of honor</strongs_def><kjv_def>:--Master, Rabbi.</kjv_def>
 
 </entry><entry strongs="04462">
@@ -27474,7 +27476,7 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="04497">
  <strongs>4497</strongs>   <greek BETA="*(ROBOA/M" unicode="Ῥοβοάμ" translit="Rhoboám"/>   <pronunciation strongs="hrob-o-am'"/>
 
- <strongs_derivation>of Hebrew origin (<strongsref language="HEBREW" strongs="07346"/>);</strongs_derivation><strongs_def> Roboam (i.e. Rechobam), an
+ <strongs_derivation>of Hebrew origin (<strongsref language="HEBREW" strongs="07346"/>);</strongs_derivation><strongs_def>Roboam (i.e. Rechabam), an 
  Israelite</strongs_def><kjv_def>:--Roboam.</kjv_def>
 
 </entry><entry strongs="04498">
@@ -27527,7 +27529,7 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="04507">
  <strongs>4507</strongs>   <greek BETA="R(UPARI/A" unicode="ῥυπαρία" translit="rhyparía"/>   <pronunciation strongs="hroo-par-ee'-ah"/>
 
- <strongs_derivation>from <strongsref language="GREEK" strongs="4508"/>;</strongs_derivation><strongs_def> dirtiness (morally)</strongs_def><kjv_def>:--turpitude.</kjv_def>
+ <strongs_derivation>from<strongsref language="GREEK" strongs="4508"/>;</strongs_derivation><strongs_def>dirtiness (morally)</strongs_def><kjv_def>:--filthiness.</kjv_def> 
 
 </entry><entry strongs="04508">
  <strongs>4508</strongs>   <greek BETA="R(UPARO/S" unicode="ῥυπαρός" translit="rhyparós"/>   <pronunciation strongs="rhoo-par-os'"/>
@@ -27808,7 +27810,7 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="04556">
  <strongs>4556</strongs>   <greek BETA="SA/RDIOS" unicode="σάρδιος" translit="sárdios"/>   <pronunciation strongs="sar'-dee-os"/>
 
- <strongs_derivation>properly, an adjective from an uncertain base;</strongs_derivation><strongs_def> sardian (3037 being
+ <strongs_derivation>properly, an adjective from an uncertain base;</strongs_derivation><strongs_def>sardian (<strongsref language="GREEK" strongs="3037"/> being 
  implied), i.e. (as noun) the gem so called</strongs_def><kjv_def>:--sardius.</kjv_def>
 </entry><entry strongs="04557">
  <strongs>4557</strongs>   <greek BETA="SARDO/NUC" unicode="σαρδόνυξ" translit="sardónyx"/>   <pronunciation strongs="sar-don'-oox"/>
@@ -27876,7 +27878,7 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="04567">
  <strongs>4567</strongs>   <greek BETA="*SATANA=S" unicode="Σατανᾶς" translit="Satanâs"/>   <pronunciation strongs="sat-an-as'"/>
 
- <strongs_derivation>of Chaldee origin corresponding to <strongsref language="HEBREW" strongs="04566"/> (with the definite affix);</strongs_derivation><strongs_def> the
+ <strongs_derivation>of Chaldee origin corresponding to <strongsref language="HEBREW" strongs="07854"/>, see also <strongsref language="GREEK" strongs="04566"/> (with the definite affix);</strongs_derivation><strongs_def> the 
  accuser, i.e. the devil</strongs_def><kjv_def>:--Satan.</kjv_def>
 
 </entry><entry strongs="04568">
@@ -27905,11 +27907,11 @@ and if so, we would appreciate being informed of the error.
 
  <strongs_derivation>genitive case from <strongsref language="GREEK" strongs="4571"/> and <strongsref language="GREEK" strongs="846"/>,
                              also dative case of the same,
-      <greek BETA="SEAUTW=|" unicode="σεαυτῷ" translit="seautōi"/>  <pronunciation strongs="seh-ow-to'"/>,  and accusative case
-      <greek BETA="SEAUTO/N" unicode="σεαυτόν" translit="seautón"/>  <pronunciation strongs="seh-ow-ton'"/>, likewise contracted
-      <greek BETA="SAUTOU=" unicode="σαυτοῦ" translit="sautoû"/>  <pronunciation strongs="sow-too'"/>,
-      <greek BETA="SAUTW=|" unicode="σαυτῷ" translit="sautōi"/>  <pronunciation strongs="sow-to'"/>,     and
-      <greek BETA="SAUTO/N" unicode="σαυτόν" translit="sautón"/>  <pronunciation strongs="sow-ton'"/>,    respectively;</strongs_derivation><strongs_def>
+      <greek BETA="SEAUTW=|" unicode="σεαυτῷ" translit="seautōi"/>  <pronunciation strongs="seh-ow-to'"/>;  and accusative case
+      <greek BETA="SEAUTO/N" unicode="σεαυτόν" translit="seautón"/>  <pronunciation strongs="seh-ow-ton'"/>; likewise contracted
+      <greek BETA="SAUTOU=" unicode="σαυτοῦ" translit="sautoû"/>  <pronunciation strongs="sow-too'"/>;
+      <greek BETA="SAUTW=|" unicode="σαυτῷ" translit="sautōi"/>  <pronunciation strongs="sow-to'"/>;     and
+      <greek BETA="SAUTO/N" unicode="σαυτόν" translit="sautón"/>  <pronunciation strongs="sow-ton'"/>;    respectively;</strongs_derivation><strongs_def>
 
  of (with, to) thyself</strongs_def><kjv_def>:--thee, thine own self, (thou) thy(-self).</kjv_def>
 
@@ -28030,10 +28032,10 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="04594">
  <strongs>4594</strongs>   <greek BETA="SH/MERON" unicode="σήμερον" translit="sḗmeron"/>   <pronunciation strongs="say'-mer-on"/>
 
- <strongs_derivation>neuter (as adverb) of a presumed compound of the article <strongsref language="GREEK" strongs="3588"/>  (t
- changed to s) and <strongsref language="GREEK" strongs="2250"/>;</strongs_derivation><strongs_def> on the (i.e. this) day (or night current or
- just passed); generally, now (i.e. at present, hitherto)</strongs_def><kjv_def>:--this
- (to-)day.</kjv_def>
+ <strongs_derivation>neuter (as adverb) of a presumed compound of the article <strongsref language="GREEK" strongs="3588"/> (τ 
+ changed to σ) and<strongsref language="GREEK" strongs="2250"/>;</strongs_derivation><strongs_def>on the (i.e. this) day (or night current or 
+ just passed); generally now (i.e. at present, hitherto)</strongs_def><kjv_def>:--this 
+ (to-)day.</kjv_def> 
 
 
 </entry><entry strongs="04595">
@@ -28545,8 +28547,8 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="04682">
  <strongs>4682</strongs>   <greek BETA="SPARA/SSW" unicode="σπαράσσω" translit="sparássō"/>   <pronunciation strongs="spar-as'-so"/>
 
- <strongs_derivation>prolongation from <greek BETA="SPAI/RW" unicode="σπαίρω" translit="spaírō"/> (to grasp;</strongs_derivation><strongs_def> apparently strengthened from <strongsref language="GREEK" strongs="4685"/>
- through the idea of spasmodic contraction); to mangle, i.e. convluse
+ <strongs_derivation>prolongation from <greek BETA="SPAI/RW" unicode="σπαίρω" translit="spaírō"/> (to gasp;</strongs_derivation><strongs_def>apparently strengthened from <strongsref language="GREEK" strongs="4685"/> 
+ through the idea of spasmodic contraction); to mangle, i.e. convulse 
  with epilepsy</strongs_def><kjv_def>:--rend, tear.</kjv_def>
 
 </entry><entry strongs="04683">
@@ -29916,7 +29918,7 @@ and if so, we would appreciate being informed of the error.
  <strongs>4891</strongs>   <greek BETA="SUNEGEI/RW" unicode="συνεγείρω" translit="synegeírō"/>   <pronunciation strongs="soon-eg-i'-ro"/>
 
  <strongs_derivation>from <strongsref language="GREEK" strongs="4862"/> and <strongsref language="GREEK" strongs="1453"/>;</strongs_derivation><strongs_def> to rouse (from death) in company with, i.e.
- (figuratively) to revivify (spirtually) in resemblance to</strongs_def><kjv_def>:--raise up
+ (figuratively) to revivify (spiritually) in resemblance to</strongs_def><kjv_def>:--raise up 
  together, rise with.</kjv_def>
 
 
@@ -29924,7 +29926,7 @@ and if so, we would appreciate being informed of the error.
  <strongs>4892</strongs>   <greek BETA="SUNE/DRION" unicode="συνέδριον" translit="synédrion"/>   <pronunciation strongs="soon-ed'-ree-on"/>
 
  <strongs_derivation>neuter of a presumed derivative of a compound of <strongsref language="GREEK" strongs="4862"/> and the base of
- <strongsref language="GREEK" strongs="1476"/>;</strongs_derivation><strongs_def> a joint session, i.e. (specially), the Jewish Sanhedrin; by
+ <strongsref language="GREEK" strongs="1476"/>;</strongs_derivation><strongs_def>a joint session, i.e. (specially), the Jewish Sanhedrim; by 
  analogy, a subordinate tribunal</strongs_def><kjv_def>:--council.</kjv_def>
 
 
@@ -30295,7 +30297,7 @@ and if so, we would appreciate being informed of the error.
  <strongs>4945</strongs>   <greek BETA="SUNWMOSI/A" unicode="συνωμοσία" translit="synōmosía"/>   <pronunciation strongs="soon-o-mos-ee'-ah"/>
 
  <strongs_derivation>from a compound of <strongsref language="GREEK" strongs="4862"/> and <strongsref language="GREEK" strongs="3660"/>;</strongs_derivation><strongs_def> a swearing together, i.e. (by
- implication) a plot</strongs_def><kjv_def>:--comspiracy.</kjv_def>
+ implication) a plot</strongs_def><kjv_def>:--conspiracy.</kjv_def> 
 
 
 </entry><entry strongs="04946">
@@ -31276,16 +31278,16 @@ and if so, we would appreciate being informed of the error.
 
  <strongs_derivation>an enclitic indefinite pronoun;</strongs_derivation><strongs_def> some or any person or object</strongs_def><kjv_def>:--a (kind
  of), any (man, thing, thing at all), certain (thing), divers, he
- (every) man, one (X thing), ought, + partly, some (man, -body, -
- thing, -what), (+ that no-)thing, what(-soever), X wherewith,
+ (every) man, one (X thing), ought, + partly, some (man, -body, 
+ -thing, -what), (+ that no-)thing, what(-soever), X wherewith, 
  whom(-soever), whose(-soever).</kjv_def>
 </entry><entry strongs="05101">
  <strongs>5101</strongs>   <greek BETA="TI/S" unicode="τίς" translit="tís"/>   <pronunciation strongs="tis"/>
 
  <strongs_derivation>probably emphatic of <strongsref language="GREEK" strongs="5100"/>;</strongs_derivation><strongs_def> an interrogative pronoun, who, which or
  what (in direct or indirect questions)</strongs_def><kjv_def>:--every man, how (much), +
- no(-ne, thing), what (manner, thing), where (-by, -fore, -of, -unto, -
- with, -withal), whether, which, who(-m, -se), why.</kjv_def>
+ no(-ne, thing), what (manner, thing), where (-by, -fore, -of, -unto, 
+ -with, -withal), whether, which, who(-m, -se), why.</kjv_def> 
 
 </entry><entry strongs="05102">
  <strongs>5102</strongs>   <greek BETA="TI/TLOS" unicode="τίτλος" translit="títlos"/>   <pronunciation strongs="tit'-los"/>
@@ -31358,7 +31360,7 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="05112">
  <strongs>5112</strongs>   <greek BETA="TOLMHRO/TERON" unicode="τολμηρότερον" translit="tolmēróteron"/>   <pronunciation strongs="tol-may-rot'-er-on"/>
 
- <strongs_derivation>neuter of the compound of a derivative of the base of 5111 (as
+ <strongs_derivation>neuter of the compound of a derivative of the base of <strongsref language="GREEK" strongs="5111"/> (as 
  adverb);</strongs_derivation><strongs_def> more daringly, i.e. with greater confidence than
  otherwise</strongs_def><kjv_def>:--the more boldly.</kjv_def>
 </entry><entry strongs="05113">
@@ -32012,7 +32014,7 @@ and if so, we would appreciate being informed of the error.
  <strongs>5215</strongs>   <greek BETA="U(/MNOS" unicode="ὕμνος" translit="hýmnos"/>   <pronunciation strongs="hoom'-nos"/>
 
  <strongs_derivation>apparently from a simpler (obsolete) form of <greek BETA="U(DE/W" unicode="ὑδέω" translit="hydéō"/> (to celebrate;</strongs_derivation><strongs_def>
- probably akin to <strongsref language="GREEK" strongs="103"/>; compare <strongsref language="HEBREW" strongs="05667"/>); a "hymn" or religious ode (one of
+ probably akin to<strongsref language="GREEK" strongs="103"/>; compare<strongsref language="GREEK" strongs="5567"/>); a "hymn" or religious ode (one of 
  the Psalms)</strongs_def><kjv_def>:--hymn.</kjv_def>
 
 
@@ -32155,7 +32157,7 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="05235">
  <strongs>5235</strongs>   <greek BETA="U(PERBA/LLW" unicode="ὑπερβάλλω" translit="hyperbállō"/>   <pronunciation strongs="hoop-er-bal'-lo"/>
 
- <strongs_derivation>from <strongsref language="GREEK" strongs="5228"/> and <strongsref language="GREEK" strongs="906"/>;</strongs_derivation><strongs_def> to throw beyod the usual mark, i.e. (figuratively)
+ <strongs_derivation>from <strongsref language="GREEK" strongs="5228"/> and<strongsref language="GREEK" strongs="906"/>;</strongs_derivation><strongs_def>to throw beyond the usual mark, i.e. (figuratively) 
  to surpass (only active participle supereminent)</strongs_def><kjv_def>:--exceeding, excel,
  pass.</kjv_def>
 
@@ -32808,7 +32810,7 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="05336">
  <strongs>5336</strongs>   <greek BETA="FA/TNH" unicode="φάτνη" translit="phátnē"/>   <pronunciation strongs="fat'-nay"/>
 
- <strongs_derivation>from <greek BETA="PATE/OMAI" unicode="πατέομαι" translit="patéomai"/> (to eat);</strongs_derivation><strongs_def> a crib (for fodder)</strongs_def><kjv_def>:--manager, stall.</kjv_def>
+ <strongs_derivation>from <greek BETA="PATE/OMAI" unicode="πατέομαι" translit="patéomai"/> (to eat);</strongs_derivation><strongs_def>a crib (for fodder)</strongs_def><kjv_def>:--manger, stall.</kjv_def> 
 </entry><entry strongs="05337">
  <strongs>5337</strongs>   <greek BETA="FAU=LOS" unicode="φαῦλος" translit="phaûlos"/>   <pronunciation strongs="fow'-los"/>
 
@@ -33275,7 +33277,7 @@ and if so, we would appreciate being informed of the error.
 
  <strongs_derivation>from <strongsref language="GREEK" strongs="5414"/>;</strongs_derivation><strongs_def> to load up (properly, as a vessel or animal), i.e.
  (figuratively) to overburden with ceremony (or spiritual
- anxiety)</strongs_def><kjv_def>:--lade, by heavy laden.</kjv_def>
+ anxiety)</strongs_def><kjv_def>:--lade, be heavy laden.</kjv_def> 
 
 </entry><entry strongs="05413">
  <strongs>5413</strongs>   <greek BETA="FORTI/ON" unicode="φορτίον" translit="phortíon"/>   <pronunciation strongs="for-tee'-on"/>
@@ -33462,7 +33464,7 @@ and if so, we would appreciate being informed of the error.
 
  <strongs_derivation>probably from <strongsref language="GREEK" strongs="5443"/> through the idea of isolation;</strongs_derivation><strongs_def> to watch, i.e. be on
  guard (literally of figuratively); by implication, to preserve, obey,
- avoid</strongs_def><kjv_def>:--beward, keep (self), observe, save.</kjv_def> Compare <strongsref language="GREEK" strongs="5083"/>.
+ avoid</strongs_def><kjv_def>:--beware, keep (self), observe, save.</kjv_def> Compare<strongsref language="GREEK" strongs="5083"/>. 
 
 
 </entry><entry strongs="05443">
@@ -33597,7 +33599,7 @@ and if so, we would appreciate being informed of the error.
 
  <strongs_derivation>a primary verb;</strongs_derivation><strongs_def> to be "cheer"ful, i.e. calmly happy or well-off;
  impersonally, especially as salutation (on meeting or parting), be
- well</strongs_def><kjv_def>:--farewell, be glad, God speed, greeting, hall, joy(- fully),
+ well</strongs_def><kjv_def>:--farewell, be glad, God speed, greeting, hail, joy(- fully), 
  rejoice.</kjv_def>
 </entry><entry strongs="05464">
  <strongs>5464</strongs>   <greek BETA="XA/LAZA" unicode="χάλαζα" translit="chálaza"/>   <pronunciation strongs="khal'-ad-zah"/>
@@ -33612,7 +33614,7 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="05466">
  <strongs>5466</strongs>   <greek BETA="*XALDAI=OS" unicode="Χαλδαῖος" translit="Chaldaîos"/>   <pronunciation strongs="khal-dah'-yos"/>
 
- <strongs_derivation>probably of Hebrew or (<strongsref language="HEBREW" strongs="03778"/>);</strongs_derivation><strongs_def> a Chaldæan (i.e. Kasdi), or native or
+ <strongs_derivation>probably of Hebrew origin (<strongsref language="HEBREW" strongs="03778"/>);</strongs_derivation><strongs_def>a Chaldæan (i.e. Kasdi), or native or 
  the region of the lower Euphrates</strongs_def><kjv_def>:--Chaldæan.</kjv_def>
 
 </entry><entry strongs="05467">
@@ -33791,7 +33793,7 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="05494">
  <strongs>5494</strongs>   <greek BETA="XEIMW/N" unicode="χειμών" translit="cheimṓn"/>   <pronunciation strongs="khi-mone'"/>
 
- <strongs_derivation>from a derivative of <greek BETA="XE/W" unicode="χέω" translit="chéō"/> (to pour;</strongs_derivation><strongs_def> akin to the base of 5490 through
+ <strongs_derivation>from a derivative of <greek BETA="XE/W" unicode="χέω" translit="chéō"/> (to pour;</strongs_derivation><strongs_def>akin to the base of <strongsref language="GREEK" strongs="5490"/> through 
  the idea of a channel), meaning a storm (as pouring rain); by
  implication, the rainy season, i.e. winter</strongs_def><kjv_def>:--tempest, foul weather,
  winter.</kjv_def>
@@ -34261,7 +34263,7 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="05570">
  <strongs>5570</strongs>   <greek BETA="YEUDAPO/STOLOS" unicode="ψευδαπόστολος" translit="pseudapóstolos"/>   <pronunciation strongs="psyoo-dap-os'-tol-os"/>
 
- <strongs_derivation>from <strongsref language="GREEK" strongs="5571"/> and <strongsref language="GREEK" strongs="652"/>;</strongs_derivation><strongs_def> a spurious apostle, i.e. pretended pracher</strongs_def><kjv_def>:--false
+ <strongs_derivation>from <strongsref language="GREEK" strongs="5571"/> and<strongsref language="GREEK" strongs="652"/>;</strongs_derivation><strongs_def>a spurious apostle, i.e. pretended preacher</strongs_def><kjv_def>:--false 
  teacher.</kjv_def>
 
 
